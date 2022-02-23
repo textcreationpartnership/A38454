@@ -1,0 +1,2226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English guide to the Latin tongue, or, A brief system of all the most necessary rules for the initiating of youth in the rudiments of grammar</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38454</idno>
+            <idno type="STC">Wing E3087</idno>
+            <idno type="STC">ESTC R2865</idno>
+            <idno type="EEBO-CITATION">12890058</idno>
+            <idno type="OCLC">ocm 12890058</idno>
+            <idno type="VID">95085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95085)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 690:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English guide to the Latin tongue, or, A brief system of all the most necessary rules for the initiating of youth in the rudiments of grammar</title>
+               </titleStmt>
+               <extent>[8], 71 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: Magnum in parvo.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Latin language --  Grammar --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95085:1"/>
+            <pb facs="tcp:95085:1"/>
+            <p>Magnum IN PARVO.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95085:2"/>
+            <pb facs="tcp:95085:2"/>
+            <p>THE English Guide TO THE LATIN TONGUE: OR <hi>A Brief Syſtem</hi> OF ALL The moſt neceſſary RULES FOR THE Initiating of YOUTH IN THE <hi>Rudiments of Grammar.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royſton,</hi> at the <hi>Angel</hi> in <hi>Amen</hi>-Corner, Bookſeller to His Moſt Sacred Majeſty, 1675.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95085:3" rendition="simple:additions"/>
+            <pb facs="tcp:95085:3"/>
+            <head>A Fevv Words TO THE READERS.</head>
+            <p>THe Author is no profeſſed Grammarian, nor indeed ſo much as a Pretender to any extra<g ref="char:EOLhyphen"/>ordinary skill in the learned Lan<g ref="char:EOLhyphen"/>guages; but being ſenſible that his mean abilities can never encourage him to hope for any ſuch Prefer<g ref="char:EOLhyphen"/>ment in the Church wherein he is an unworthy Minister, as may ena<g ref="char:EOLhyphen"/>ble him to give his Children Edu<g ref="char:EOLhyphen"/>cation abroad, he reſolves they ſhall not want the beſt he can afford them at home; and that he may
+<pb facs="tcp:95085:4"/> not rob himſelf of too much of that time which he is bound to improve another way, to the beſt advantage of the Congregation wherewith he is intruſted, he hath compoſed this ſhort Grammar, for the greater eaſe (as to him ſeemeth) both of Teacher and Learner: His only deſign of printing it being to ſave himſelf the labour of tranſcribing it ſo of<g ref="char:EOLhyphen"/>ten as Children will be apt to ſully and blur it before they can perfect<g ref="char:EOLhyphen"/>ly learn it.</p>
+            <p>If any man elſe ſhall think it uſe<g ref="char:EOLhyphen"/>ful to him for the like ſervice, it may not be amiſs to tell him, that Examples of the Rules of <hi>Syntax</hi> are not therefore omitted becauſe they are thought uſeleſs; but part<g ref="char:EOLhyphen"/>ly to leſſen the charge of printing,
+<pb facs="tcp:95085:4"/> yet chiefly, becauſe in teaching, the Author uſeth to give his Scholar an Engliſh Sentence, explaining the Rule by it, and giving him Latin Words, ſhews him how to turn it into Latin by his Rule, and here he always makes choice of the En<g ref="char:EOLhyphen"/>gliſh of ſuch Words as are expreſs<g ref="char:EOLhyphen"/>ed in the Rules concerning Nouns and Verbs, omitting no one Word neceſſary to be obſerved, but bring<g ref="char:EOLhyphen"/>ing it into one or other of thoſe Examples. By this courſe the Learner hath in a ſhort time a Pa<g ref="char:EOLhyphen"/>per of Latin Sentences, which he often reads inſtead of Leſſons uſu<g ref="char:EOLhyphen"/>ally taught, and reaps this conſide<g ref="char:EOLhyphen"/>rable advantage by it, that whereas in reading an Author, he ſhall of<g ref="char:EOLhyphen"/>ten have occaſion of exemplifying
+<pb facs="tcp:95085:5"/> and repeating the ſame Rule many times in a Leſſon, and other as neceſſary Rules not once in a quarter of a year; by going over his Paper of Examples he ſhall have occaſion to repeat and call to mind every Rule in his Grammar once a Week for ſome time; and afterwards, when he reads Authors, this will be a more pro<g ref="char:EOLhyphen"/>fitable Exerciſe for the firſt Morning Part, as 'tis called, then (as the Cuſtom is) to repeat ſo much of his Grammar by Heart.</p>
+            <p>If any diſlike this way, he may follow his own; and may, if he pleaſe to be at no farther trouble, furniſh himſelf with ſtore of Examples to every Rule from the moſt approved Authors out of Mr. <hi>Farnaby</hi>'s <hi>Syſtema Grammaticum,</hi> and the little Grammar of <hi>Ger. Jo. Voſſius,</hi> to which two I acknowledge my ſelf in<g ref="char:EOLhyphen"/>debted for a great part of what is here done.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Latin_grammar">
+            <pb n="1" facs="tcp:95085:5"/>
+            <head>THE English Guide TO THE LATIN TONGUE.</head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>Sentence</hi> is made of Words, a <hi>Word</hi> of Syllables a <hi>Syllable</hi> of Letters.</p>
+            <p>There be Nineteen Latin <hi>Letters, a, b, c, d, e, f, g, i, l, m, n, o, p, q, r, s, t, u, x.</hi>
+            </p>
+            <p>
+               <hi>K, y, z,</hi> are Greek Letters, and <hi>h</hi> is no Letter, but a Note of Aſpiration.</p>
+            <l>Letters are either <hi>great</hi> or <hi>ſmall,</hi>
+            </l>
+            <l>The great are called <hi>Capital.</hi>
+            </l>
+            <l>
+               <hi>Proper Names, Sentences,</hi> and <hi>Verſes</hi> all</l>
+            <l>Begin with Letters <hi>Capital.</hi>
+            </l>
+            <p>There be five Latin Vowels, <hi>a, e, i, o, u. Y</hi> is a Greek Vowel.</p>
+            <p>There be fourteen Conſonants, <hi>b, c, d, f, g, l, m, n, p, q, r, s, t, x,</hi>
+            </p>
+            <pb facs="tcp:95085:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:95085:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:95085:7"/>
+            <p>
+               <hi>J</hi> and <hi>V</hi> in the beginning of a Syllable before a Vowel are Conſonants.</p>
+            <p>There be four Liquids, <hi>l, m, n, r,</hi> and eight Mutes, <hi>b, c. d, f, g, p, q, t.</hi>
+            </p>
+            <p>Three are called double Conſonants, <hi>x, z,</hi> and <hi>j,</hi> when ſet between two Vowels.</p>
+            <p>Of Vowels are made <hi>Dipthongs;</hi> there be four proper Dipthongs, <hi>ae oe, au eu,</hi> and four improper Dipthongs, <hi>ai, ei, oi, ui.</hi>
+            </p>
+            <p>A <hi>Syllable</hi> is either but one Vowel, as <hi>a, e, i, o,</hi> or a Vowel with one or more Conſonants ſounded together, as <hi>ab, abs.</hi>
+            </p>
+            <p>
+               <hi>C</hi> before <hi>e</hi> or <hi>i,</hi> ſounds like <hi>s. G</hi> before <hi>e</hi> or <hi>i,</hi> ſounds like <hi>j</hi> Conſonant. <hi>Ti</hi> before a Vowel ſounds like <hi>ſi,</hi> except after <hi>s,</hi> or when it begins a word.</p>
+            <p>A <hi>Word</hi> is either one or more Syllables.</p>
+            <p>A Conſonant between two Vowels in a word be<g ref="char:EOLhyphen"/>gins the following Syllable, as <hi>ge╌ne╌ra╌tio.</hi> If two like Conſonants come together, the later begins the following Syllable, as <hi>an╌nus.</hi> Two unlike Conſo<g ref="char:EOLhyphen"/>nants which can begin the firſt Syllable, may alſo begin any other Syllable in a Word, otherwiſe the latter begins the following Syllable. If a Word be <hi>compounded</hi> or made of two Words, each Part ſhall have its proper Conſonants.</p>
+            <p>A Line muſt alwayes end with a whole Syllable.</p>
+            <p>A Word is either <hi>Primitive,</hi> or <hi>Derivative,</hi> which comes from the <hi>Primitive:</hi> Again, a Word is either <hi>Simple</hi> or <hi>Compound,</hi> made of two or more ſimple Words.</p>
+            <p>There be eight kinds of Latin Words, <hi>Noun, Pro<g ref="char:EOLhyphen"/>noun, Verb, Participle, Adverb, Conjunction, Prae<g ref="char:EOLhyphen"/>poſition, Interjection.</hi>
+            </p>
+            <pb n="3" facs="tcp:95085:7"/>
+            <p>
+               <hi>Nouns, Pronouns, Verbs,</hi> and <hi>Participles</hi> vary the ending, or are declined; the reſt do not.</p>
+            <div type="part">
+               <head>Nouns.</head>
+               <p>A <hi>Noun</hi> is the name of a thing. Some Nouns be <hi>Subſtantives,</hi> and ſome be <hi>Adjectives.</hi>
+               </p>
+               <p>A Noun <hi>Subſtantive</hi> may have <hi>a, an,</hi> or <hi>the</hi> before it, and cannot have the Word <hi>thing</hi> immediately after it; as <hi>a man.</hi>
+               </p>
+               <p>A Noun <hi>Adjective</hi> may have the Word <hi>thing</hi> im<g ref="char:EOLhyphen"/>mediately after it, and cannot have <hi>a, an,</hi> or <hi>the</hi> be<g ref="char:EOLhyphen"/>fore it, except a Subſtantive follow, as <hi>good, white.</hi>
+               </p>
+               <p>A Noun Subſtantive is <hi>Proper</hi> or <hi>Common.</hi>
+               </p>
+               <p>A Noun Subſtantive <hi>Proper</hi> is the Proper Name of ſome one thing, whereby it is commonly known from others of the ſame kind, as <hi>John, London.</hi>
+               </p>
+               <p>A Noun Subſtantive <hi>Common</hi> or <hi>Appellative,</hi> is a Common Name, whereby we call all things of the ſame kind, as <hi>Man, City.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Numbers.</head>
+               <p>There be two <hi>Numbers,</hi> the <hi>Singular</hi> noting but <hi>one,</hi> as <hi>a man;</hi> and the <hi>Plural</hi> noting <hi>more</hi> than one, as <hi>men.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Perſons.</head>
+               <p>There be three <hi>Perſons.</hi> The <hi>firſt</hi> Perſon, <hi>I, we.</hi> The <hi>ſecond</hi> Perſon, <hi>Thou, ye,</hi> and every <hi>Vocative</hi> Caſe. The <hi>third</hi> Perſon, <hi>He, they,</hi> and all Nouns, Pronouns, Verbs and Participles, not implying. <hi>I, we, thou</hi> or <hi>ye.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:95085:8"/>
+               <head>Caſes.</head>
+               <p>There be ſix <hi>Caſes.</hi> The <hi>Nominative, Genitive, Dative, Accuſative, Vocative</hi> and <hi>Ablative.</hi> The Nominative is called <hi>Caſus rectus,</hi> the reſt are called <hi>Caſus obliqui.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Declenſion.</head>
+               <p>An Engliſh Noun is thus declined.</p>
+               <p>
+                  <hi>Sing Num.</hi> No. <hi>a</hi> or <hi>the man.</hi> Ge. <hi>of a man</hi> or <hi>a man's.</hi> Da. <hi>to</hi> or <hi>for a man.</hi> Acc. <hi>a</hi> or <hi>the man.</hi> Voc. <hi>O man.</hi> Ab. <hi>in, with, from</hi> or <hi>by a man.</hi>
+               </p>
+               <p>
+                  <hi>Plur. Num.</hi> No. <hi>Men</hi> or <hi>the men.</hi> Ge. <hi>of men.</hi> Da. <hi>to</hi> or <hi>for men.</hi> Acc. <hi>men</hi> or <hi>the men.</hi> Voc. <hi>O men.</hi> Ab. <hi>in, with, from</hi> or <hi>by men.</hi>
+               </p>
+               <p>There be five <hi>Declenſions</hi> of Latin Nouns; di<g ref="char:EOLhyphen"/>ſtinguiſhed by the ending of the <hi>Gen. Caſe:</hi> thus, The firſt <hi>ae.</hi> The ſecond <hi>i.</hi> The third <hi>is.</hi> The fourth <hi>ûs.</hi> The fifth <hi>ei.</hi>
+               </p>
+               <p>In each Declenſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, the <hi>Nom.</hi> and <hi>Voc.</hi> Plur. end alike: the <hi>Dat.</hi> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Abl.</hi> Plur. end alike. And in Words of the <hi>Neu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Gender the <hi>Nom. Acc.</hi> and <hi>Voc.</hi> end alike in each Number, and in the Plural Number they end all in <hi>a.</hi>
+               </p>
+               <div type="section">
+                  <head>The firſt Declenſion.</head>
+                  <p>Nouns of the firſt Declenſion end in <hi>a, as, es,</hi> or <hi>e;</hi> thus declined.</p>
+                  <pb n="5" facs="tcp:95085:8"/>
+                  <p>
+                     <hi>Muſa.</hi> Sing. N. V. Ab. <hi>a.</hi> G. D. <hi>ae.</hi> Acc. <hi>am.</hi> Plur. N.V. <hi>ae.</hi> G. <hi>arum.</hi> D. Ab. <hi>is.</hi> Acc. <hi>as.</hi>
+                  </p>
+                  <p>
+                     <hi>Aenaeas.</hi> S.N. <hi>as.</hi> G.D. <hi>ae.</hi> Acc. <hi>am</hi> or <hi>an.</hi> V.A. <hi>a.</hi> In the Plural like Nouns in <hi>a.</hi>
+                  </p>
+                  <p>
+                     <hi>Anchiſes.</hi> S. N. <hi>es.</hi> G.D. <hi>ae.</hi> Acc. <hi>en</hi> V. Ab. <hi>e.</hi> In the Plural like Nouns in <hi>a.</hi>
+                  </p>
+                  <p>
+                     <hi>Epitome.</hi> S. N. D. V. Ab. <hi>e.</hi> G. <hi>es.</hi> Acc. <hi>en.</hi> In the Plural like Nouns in <hi>a.</hi>
+                  </p>
+                  <p>
+                     <hi>Filia, nata, dea, equa,</hi> make the D. and Abl. Plur. <hi>abus,</hi> ſometimes <hi>is.</hi>
+                  </p>
+                  <p>
+                     <hi>Serva, ſocia, anima, aſina,</hi> make <hi>is,</hi> ſometimes <hi>abus.</hi>
+                  </p>
+                  <p>
+                     <hi>Liberta, mula, duae, ambae,</hi> make <hi>abus</hi> only.</p>
+                  <p>The Ancients uſed the Gen. in <hi>as,</hi> whence we ſtill read <hi>Paterfamilias, Materfamilias, &amp;c.</hi> and ſome<g ref="char:EOLhyphen"/>times in <hi>aï,</hi> as <hi>Aulaï.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The ſecond Declenſion.</head>
+                  <p>Nouns of the ſecond Declenſion end in <hi>er, ir, us, um, eus, os</hi> or <hi>on:</hi> thus declined.</p>
+                  <p>
+                     <hi>Puer. Vir.</hi> S. N. V. <hi>r.</hi> G. <hi>i.</hi> D. Ab. <hi>o.</hi> Acc. <hi>um.</hi> Pl. N. V. <hi>i.</hi> G. <hi>orum.</hi> D. Ab. <hi>is.</hi> Acc. <hi>os.</hi>
+                  </p>
+                  <p>
+                     <hi>Dominus.</hi> S. N. <hi>us.</hi> G. <hi>i.</hi> D. Ab. <hi>o.</hi> Acc. <hi>um.</hi> V. c. Pl. N. V. <hi>i.</hi> G. <hi>orum.</hi> D. Ab. <hi>is.</hi> Acc. <hi>os</hi>
+                  </p>
+                  <p>
+                     <hi>Templum.</hi> S. N. Acc. V. <hi>um.</hi> G. <hi>i.</hi> D. Ab. <hi>o.</hi> Pl. N Acc. V. <hi>a.</hi> G. <hi>orum.</hi> D. Ab <hi>is.</hi>
+                  </p>
+                  <p>
+                     <hi>Orpheus.</hi> S. N. <hi>eus.</hi> G. <hi>ei.</hi> D. <hi>eo.</hi> Acc. <hi>eum</hi> or <hi>ea.</hi> V. <hi>eu.</hi> Ab. <hi>eo.</hi>
+                  </p>
+                  <p>
+                     <hi>Os</hi> like <hi>us,</hi> and <hi>on</hi> like <hi>um.</hi>
+                  </p>
+                  <p>When the Nom. ends in <hi>us,</hi> the Voc. ſhall end in <hi>c.</hi> Except Voc. <hi>Deus.</hi>
+                  </p>
+                  <p>
+                     <hi>Filius, genius,</hi> and Proper Names in <hi>ius, aius, eius,</hi> have the Voc. in <hi>i, ai, ei.</hi> Except <hi>Delius, Cynthius,</hi>
+                     <pb n="6" facs="tcp:95085:9"/> and ſuch like Perſonal Adjectives, with ſome Greek Words which have <hi>c.</hi> in the Voc.</p>
+                  <p>
+                     <hi>Deus</hi> in the Nom. Pl makes <hi>dii,</hi> in the Dat and Ab. <hi>diis.</hi>
+                  </p>
+                  <p>The Genitives <hi>arum</hi> and <hi>orum,</hi> are often contra<g ref="char:EOLhyphen"/>cted into <hi>ûm.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The third Declenſion.</head>
+                  <p>Nouns of the third Declenſion end in <hi>a, e, o, c, d, l, n, r, t, x,</hi> and are thus declined.</p>
+                  <p>S. N. V. <hi>a, e, &amp;c.</hi> G. <hi>is.</hi> D. <hi>i.</hi> Acc. <hi>em</hi> or <hi>im.</hi> Ab. <hi>e</hi> or <hi>i.</hi> Pl. N. Acc. V. <hi>es,</hi> the Neuters <hi>a.</hi> G. <hi>um.</hi> D. Ab. <hi>ibus.</hi>
+                  </p>
+                  <p>Names of Rivers in <hi>is;</hi> and theſe,
+<list>
+                        <item>
+                           <hi>Vis, ravis, ſitis, tuſſis:</hi> make Acc. <hi>im.</hi>
+                        </item>
+                        <item>
+                           <hi>Charybdis, magudaris, amuſſis:</hi> make Acc. <hi>im.</hi>
+                        </item>
+                        <item>
+                           <hi>Cannabis, praeſepis, pelvis, buris:</hi> make Acc. <hi>im.</hi>
+                        </item>
+                        <item>
+                           <hi>Mephitis, ſinapis</hi> and <hi>ſecuris:</hi> make Acc. <hi>im.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>Febris, clavis, aqualis, navis;</hi> make <hi>em</hi> uſually, ſometimes <hi>im.</hi>
+                  </p>
+                  <p>
+                     <hi>Pulvis, turris, reſtis,</hi> commonly <hi>im,</hi> ſometimes <hi>em.</hi>
+                  </p>
+                  <p>
+                     <hi>Bipennis, ſementis, strigilis, cutis, em</hi> or <hi>im.</hi>
+                  </p>
+                  <p>Some Greek Words have Acc. <hi>em</hi> or <hi>a,</hi> as <hi>aërem</hi> or <hi>aëra, Chlamydem</hi> or <hi>da.</hi>
+                  </p>
+                  <p>Nom. <hi>Pan,</hi> Acc. <hi>Pana.</hi> Some <hi>in</hi> or <hi>im,</hi> as <hi>Gene<g ref="char:EOLhyphen"/>ſim</hi> or <hi>ſin, Halym</hi> or <hi>lyn.</hi>
+                  </p>
+                  <p>Greek Feminines in <hi>o,</hi> have Acc. <hi>o;</hi> as <hi>Calypſo, Sappho, Dido.</hi>
+                  </p>
+                  <p>Comparatives, Adjective Verbals in <hi>trix,</hi> Nouns having Acc. <hi>em</hi> and <hi>im,</hi> the Compounds of <hi>Par,</hi> moſt Adjectives of one Termination (except the Com<g ref="char:EOLhyphen"/>pounds of <hi>pes,</hi> and <hi>ſenex, pauper, ſoſpes, dives, hoſpes</hi>)
+<pb n="7" facs="tcp:95085:9"/> as alſo, <hi>Affinis, ignis, amnis, anguis, unguis, avis, civis, ſupellex, imber,</hi> make Abl. <hi>e</hi> or <hi>i.</hi>
+                  </p>
+                  <p>Names of <hi>Moneths,</hi> Adjectives in <hi>is</hi> or <hi>er</hi> with <hi>e</hi> Neuter, Nouns not increaſing in the Gen. making Acc. <hi>im: Memor, immemor, canalis; ſtrigilis, mu<g ref="char:EOLhyphen"/>gilis, ſodalis; triremis, quadriremis, rivalis; Bipen<g ref="char:EOLhyphen"/>nis, adilis, annalis;</hi> with Neuters in <hi>e, al, ar,</hi> (ex<g ref="char:EOLhyphen"/>cept <hi>Sal, far, nectar, hepar, jubar</hi>) make Abl. <hi>i.</hi>
+                  </p>
+                  <p>Proper Subſtantives made of Adjectives, and Par<g ref="char:EOLhyphen"/>ticiples in the Abl. abſolute, have <hi>c</hi> only.</p>
+                  <p>Nouns having Abl. <hi>i,</hi> or <hi>e</hi> and <hi>i;</hi> have the Nom. Pl. Neuter <hi>ia:</hi> But <hi>Vetus,</hi> Comparatives and Com<g ref="char:EOLhyphen"/>pounds of <hi>Corpus,</hi> have <hi>ra: plus</hi> and <hi>apluſtre, ra</hi> and <hi>ria.</hi>
+                  </p>
+                  <p>Nouns having Abl. <hi>i,</hi> or <hi>e</hi> and <hi>i:</hi> Subſtantives end<g ref="char:EOLhyphen"/>ing in two Conſonants, Nouns in <hi>er, es</hi> or <hi>is,</hi> not in<g ref="char:EOLhyphen"/>creaſing in the <hi>Gen. Sing.</hi> moſt Words wanting the Sing. <hi>Polyſyllables</hi> in <hi>as,</hi> the Parts of a <hi>pound; caro, linter, uter, venter, as, mas, vas vadis, lis, cos, crux, lar, os oſſis, dis, glos, glis, mus, nix, nex, fex</hi> and <hi>faux,</hi> make Gen. Pl. <hi>ium.</hi>
+                  </p>
+                  <p>Comparatives; and theſe,
+<list>
+                        <item>
+                           <hi>Memor, immemor, inops, uber,</hi>
+                        </item>
+                        <item>
+                           <hi>Compos, impos, impuber, puber,</hi>
+                        </item>
+                        <item>
+                           <hi>Degener, congener, dives, bicorpor,</hi>
+                        </item>
+                        <item>
+                           <hi>Strigilis, mugilis, vetus, tricorpor,</hi>
+                        </item>
+                        <item>
+                           <hi>Senex, judex, celebs, conſors, canis,</hi>
+                        </item>
+                        <item>
+                           <hi>Cliens, hiems, juvenis, adeps, panis,</hi>
+                        </item>
+                        <item>
+                           <hi>Supplex, complex, celer, phalanx, Sphinx,</hi>
+                        </item>
+                        <item>
+                           <hi>Gryps, opes, apes, Chalybs, lynx,</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>Vates, volucris, Cyclops, Lemures, primores, A<g ref="char:EOLhyphen"/>thiops, proceres</hi> and <hi>civitas,</hi> make Gen. <hi>vm. Plus, plurium. Parens, apis, ium</hi> and <hi>um. Bos, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um. A<g ref="char:EOLhyphen"/>lites, caelites, litta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </p>
+                  <pb n="8" facs="tcp:95085:10"/>
+                  <p>Neuter Names of <hi>Feaſts,</hi> with ſome others have <hi>ium</hi> and <hi>orum.</hi>
+                  </p>
+                  <p>Greek Neuters in <hi>ma,</hi> have D. and Abl. Pl. <hi>is</hi> and <hi>ibus. Bos, bobus</hi> and <hi>bubus.</hi>
+                  </p>
+                  <p>Greek Words in the Acc. Pl. for <hi>es</hi> have <hi>as:</hi> and ſome Latin Words <hi>eis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The fourth Declenſion.</head>
+                  <p>Nouns of the fourth Declenſion end in <hi>us</hi> or <hi>u.</hi>
+                  </p>
+                  <p>
+                     <hi>Manus.</hi> S. N. G. V. <hi>us. D. ui.</hi> Acc. <hi>um.</hi> Ab. <hi>u.</hi> Pl. N. Acc. V. <hi>us.</hi> G. <hi>uum.</hi> D. Ab. <hi>ibus.</hi>
+                  </p>
+                  <p>Nouns in <hi>u,</hi> are not declined in the Singular.</p>
+                  <p>
+                     <hi>Specus, lacus, artus; tribus, arcus, partus,</hi> have D. and Abl. Pl. <hi>ubus.</hi>
+                  </p>
+                  <p>
+                     <hi>Portus, veris, genu,</hi> have <hi>ubus</hi> and <hi>ibus.</hi>
+                  </p>
+                  <p>
+                     <hi>Jeſus.</hi> N. <hi>us.</hi> G. D. V. Ab. <hi>u.</hi> Acc. <hi>um.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The fifth Declenſion.</head>
+                  <p>Nouns of the fifth Declenſion end in <hi>es.</hi>
+                  </p>
+                  <p>
+                     <hi>Res.</hi> S. N. V. <hi>es.</hi> G. D. <hi>ei.</hi> Acc. <hi>em.</hi> Ab. <hi>e.</hi> Pl. N. Acc. V. <hi>es.</hi> G. <hi>erum.</hi> D. Ab <hi>ebus.</hi>
+                  </p>
+                  <p>Nouns compounded of two Nom. Caſes, are de<g ref="char:EOLhyphen"/>clined in both Words, as N. <hi>Reſpublica.</hi> G. <hi>Reipub<g ref="char:EOLhyphen"/>licae, &amp;c.</hi> Nouns compounded of a Nom. and Ob<g ref="char:EOLhyphen"/>lique Caſe, are declined only in the Word of the Nom. as N. <hi>Paterfamilias.</hi> G. <hi>patrisfamilias, &amp;c.</hi> N. <hi>Jurisconſultus.</hi> G. <hi>jurisconſulti, &amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Genders.</head>
+               <p>There be three <hi>Genders; Maſculine, Foeminine</hi> and <hi>Neuter.</hi>
+               </p>
+               <div type="section">
+                  <pb n="9" facs="tcp:95085:10"/>
+                  <head>Nouns of the Maſculine Gender.</head>
+                  <p n="1">1. All <hi>Hees</hi> or <hi>Males, Moneths, Winds,</hi> moſt <hi>Ri<g ref="char:EOLhyphen"/>vers, As,</hi> a pound, and all the <hi>parts</hi> or <hi>compounds</hi> of a pound, not ending in <hi>a,</hi> are Maſculine; ſo are Ci<g ref="char:EOLhyphen"/>ties in <hi>o, as,</hi> and <hi>us</hi> from the Greek <hi>ous,</hi> or in <hi>i</hi> Plur. only; and <hi>ſpinus</hi> with trees in <hi>aſter.</hi>
+                  </p>
+                  <p n="2">2. <hi>As, es,</hi> and Nouns in <hi>a</hi> made of Greek Nouns in <hi>as</hi> or <hi>es,</hi> Verbals in <hi>a,</hi> and <hi>Adria,</hi> a Bay of the Sea, of the firſt Decl. are Maſculine.</p>
+                  <p n="3">3. <hi>Ir, er, us, eus,</hi> of the ſecond Decl. are Maſcu<g ref="char:EOLhyphen"/>line.</p>
+                  <p n="4">4. <hi>Il, ol, ul, an, in, on, er, or, os, o,</hi> of the third Decl. are Maſculine.</p>
+                  <p n="5">5. <hi>
+                        <g ref="char:V">Ʋ</g>s,</hi> of the fourth Decl. is Maſculine.</p>
+                  <p n="6">6. Only <hi>Meridies</hi> of the fifth Decl. is Maſculine.</p>
+                  <p n="7">7. Theſe Nouns of the third Decl. are Maſculine.</p>
+                  <list>
+                     <item>
+                        <hi>Vas vadis, adamas, clephas</hi> and <hi>ren:</hi>
+                     </item>
+                     <item>
+                        <hi>Palmes, paries, limes, ſtipes, ſplen.</hi>
+                     </item>
+                     <item>
+                        <hi>Fomes, termes, trames, gurges, pes:</hi>
+                     </item>
+                     <item>
+                        <hi>Ceſpes, poples, magnes, lebes, praes.</hi>
+                     </item>
+                     <item>
+                        <hi>Tapes, acinaces, callis, colis, collis:</hi>
+                     </item>
+                     <item>
+                        <hi>Glis, panis, penis, ignis, caulis, follis.</hi>
+                     </item>
+                     <item>
+                        <hi>Mugilis</hi> and <hi>amnis, funis</hi> and <hi>aqualis:</hi>
+                     </item>
+                     <item>
+                        <hi>Cucumis</hi> and <hi>vermis, vomis</hi> and <hi>natalis.</hi>
+                     </item>
+                     <item>
+                        <hi>Pecten, lien, lichen, attagen</hi> and <hi>crinis:</hi>
+                     </item>
+                     <item>
+                        <hi>Solar, furfur, turtur, vultur, hymen, cinis.</hi>
+                     </item>
+                     <item>
+                        <hi>Mus, lepus, polypus, tripus, fur</hi> and <hi>faſcis</hi>
+                     </item>
+                     <item>
+                        <hi>Cenchris, ſentis, pulvis, orbis,</hi> alſo <hi>caſſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Piſcis, ſanguis, unguis, proſtuens</hi> and <hi>enſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Vectis, fuſtis, poſtis, lapis, axis, menſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Seps, torris, torrens, confluens</hi> and <hi>mons:</hi>
+                     </item>
+                     <pb n="10" facs="tcp:95085:11"/>
+                     <item>
+                        <hi>Oriens</hi> and <hi>occidens, chalybs, grex</hi> and <hi>pons,</hi>
+                     </item>
+                     <item>
+                        <hi>Gryps, merops, hydrops; nefrens, rudens, fons,</hi>
+                     </item>
+                     <item>
+                        <hi>Murex, ramex, rumex, dens</hi> and <hi>bibens:</hi>
+                     </item>
+                     <item>
+                        <hi>Apex, frutex, vertex, latex, tridens.</hi>
+                     </item>
+                     <item>
+                        <hi>Pollex, calix, fornix, phoenix, codex:</hi>
+                     </item>
+                     <item>
+                        <hi>Spadix, volvox, tradux, oryx, pudex.</hi>
+                     </item>
+                     <item>
+                        <hi>Caudex, coccyx, bombyx, culex:</hi>
+                     </item>
+                     <item>
+                        <hi>Myſtax, dropax, abax, pulex.</hi>
+                     </item>
+                     <item>
+                        <hi>Eryx</hi> and <hi>thorax, nycticorax</hi> and <hi>ſtorax,</hi> add <hi>Har<g ref="char:EOLhyphen"/>pago.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Nouns of the Feminine Gender.</head>
+                  <p n="1">1. All <hi>Shees</hi> or <hi>Females, Countries, Cities, Villages</hi> and <hi>Trees</hi> are Feminine.</p>
+                  <p n="2">2. <hi>A</hi> and <hi>e</hi> of the firſt Decl. are Feminine.</p>
+                  <p n="3">3. <hi>Alvus, domus, ficus</hi> a Fig, <hi>colus, bumus, van<g ref="char:EOLhyphen"/>nus,</hi> with many Greek Words of the ſecond Decl. are Feminine.</p>
+                  <p n="4">4. <hi>As, aus, es, is</hi> or <hi>ys, x</hi> and <hi>s</hi> after a <hi>Conſo<g ref="char:EOLhyphen"/>nant,</hi> Verbals in <hi>io,</hi> and Words of more than two Syllables in <hi>do</hi> and <hi>go,</hi> of the third Decl. are Femi<g ref="char:EOLhyphen"/>nine.</p>
+                  <p n="5">5. <hi>Manus, porticus, tribus, acus</hi> a Needle, of the fourth Decl. are Feminine.</p>
+                  <p n="6">6. All Nouns of the fifth Decl. are Feminine; except <hi>Dies</hi> and <hi>Meridies.</hi>
+                  </p>
+                  <p n="7">7. Theſe Nouns of the third Decl. are alſo Fe<g ref="char:EOLhyphen"/>minine.</p>
+                  <list>
+                     <item>
+                        <hi>Caro, grando, Argo, regio:</hi>
+                     </item>
+                     <item>
+                        <hi>Echo, portio, concio, legio.</hi>
+                     </item>
+                     <item>
+                        <hi>Optio, talio, religio, ditio:</hi>
+                     </item>
+                     <item>
+                        <hi>Communio, ſyndon, halcyon, ſeditio.</hi>
+                     </item>
+                     <pb n="11" facs="tcp:95085:11"/>
+                     <item>
+                        <hi>Icon, arbor, arctos, eos</hi> and <hi>rebellio s</hi>
+                     </item>
+                     <item>
+                        <hi>Aedon, diametros, cos, dos, perduellio.</hi>
+                     </item>
+                     <item>
+                        <hi>Incus, ſubſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>us, virtus, ſervitus</hi> and <hi>ſalus:</hi>
+                     </item>
+                     <item>
+                        <hi>Senectus, tellus, juventus, pecus, palus.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Nouns of the Neuter Gender.</head>
+                  <p n="1">1. <hi>
+                        <g ref="char:V">Ʋ</g>m</hi> and <hi>on</hi> of the ſecond Decl. <hi>pelagus, virus,</hi> and all Subſtantives <hi>undeclined, Argos</hi> and Cities in <hi>ma, l, ir, ur, i</hi> or <hi>y</hi> Sing. or <hi>a</hi> Plur. with thoſe in <hi>e</hi> ſhort, and the River <hi>Jader,</hi> are Neuters.</p>
+                  <p n="2">2. <hi>A, e, c, t, al, cl, en, ar, ur, us,</hi> of the third Decl. are Neuter.</p>
+                  <p n="3">3. Theſe alſo of the third Decl. are Neuter.</p>
+                  <list>
+                     <item>
+                        <hi>Aes, ver, iter, ſpinther, verber, uber:</hi>
+                     </item>
+                     <item>
+                        <hi>Os, cor, aequor, marmor, ador, tuber.</hi>
+                     </item>
+                     <item>
+                        <hi>Vas vaſis, piper, gingiber, cadaver:</hi>
+                     </item>
+                     <item>
+                        <hi>Cicer, acer, lacer, atriplex, papaver.</hi>
+                     </item>
+                  </list>
+                  <p>And many Greek Words in <hi>as, es, os.</hi>
+                  </p>
+                  <p>Subſtantives which in the ſame Diſcourſe may have an Adjective either <hi>Maſculine</hi> or <hi>Feminine</hi> are of the <hi>Doubtful</hi> Gender. Such are <hi>Adeps, unguis, canalis, clunis, finis, torquis, corbis, penus, ſpecus, ſerpens, bar<g ref="char:EOLhyphen"/>bitus, groſſus, phaſelus, ſcrobs, limax, imbrex, perdex, rubus, stirps</hi> a Plant.</p>
+                  <p>
+                     <hi>Margo, arrabo, bubo, palumbes, vepres, ſmaragdus, pampinus, varix, cortex, obex, pumex, ſilex, calx</hi> a Heel, are rather Maſculine. <hi>Linter, linx, ſandyx, onyx, ſardonyx, forceps, grus; ales, talpa, dama,</hi> ra<g ref="char:EOLhyphen"/>ther Feminine.</p>
+                  <p>Nouns Common to both Sexes, when uſed for <hi>Males,</hi> are Maſc. when for <hi>Females</hi> Fem. Such are, <hi>Infans, parens, author, vates; conjux, haeres, patruelis,
+<pb n="12" facs="tcp:95085:12"/> affinis, vindex, judex, augur, ſacerdos, civis, cuſtos, comes, ſus, bos, canis, teſtis.</hi> But <hi>Adoleſcens, convi<g ref="char:EOLhyphen"/>va, miles, hoſtis, antiſtes, dux, nemo, municeps,</hi> have rarely an Adjective Feminine.</p>
+                  <p>
+                     <hi>Dies</hi> is Doubtful Singular, and only Maſculine Plural, <hi>Vulgus, Anxur</hi> are Neuter, ſometimes Maſ<g ref="char:EOLhyphen"/>culine. The River <hi>Nar</hi> is Maſculine and Neuter. <hi>Halec</hi> is Neuter, ſometimes Feminine. <hi>Sal</hi> is Maſcu<g ref="char:EOLhyphen"/>line, ſometimes Neuter. <hi>Animans</hi> is of all Genders, but ſeldom Maſculine.</p>
+                  <p>Nouns ſignifying both Sexes under one Gender, are called <hi>Epicoene;</hi> as <hi>Paſſer,</hi> a Sparrow, <hi>Aquila,</hi> an Eagle. The Sex is diſtinguiſhed by adding <hi>Mas</hi> or <hi>Faemina.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Anomalous or Irregular Nouns.</head>
+                  <p n="1">1 <hi>Aclita</hi> or <hi>Aptotes</hi> are Nouns undeclined, as <hi>nil, nihil, fas, nefas, inſtar, caepe, pondo, volupe, gau<g ref="char:EOLhyphen"/>ſape, &amp;c. Cities</hi> in <hi>i</hi> or <hi>y</hi> Singular, all <hi>Numbers</hi> af<g ref="char:EOLhyphen"/>ter <hi>Three</hi> to an <hi>Hundred, Tot, quot,</hi> and their Com<g ref="char:EOLhyphen"/>pounds, Names of <hi>Letters,</hi> Words uſed <hi>Materially,</hi> Hebrew Words in <hi>am</hi> or <hi>im,</hi> Verbs, Adverbs, Sen<g ref="char:EOLhyphen"/>tences uſed as Nouns, the Adjective <hi>Mille,</hi> and bar<g ref="char:EOLhyphen"/>barous Words, as <hi>frit, &amp;c.</hi> are undeclined. Neuters in <hi>u,</hi> and the Subſtantive <hi>Mille</hi> are not declined in the Singular.</p>
+                  <p n="2">2. <hi>Monoptotes</hi> have one Oblique Caſe only, as G. <hi>Dicis, nauci, hujuſmodi.</hi> D. <hi>Oſtentui.</hi> Acc. <hi>Inficias, in<g ref="char:EOLhyphen"/>citas.</hi> Ab. <hi>ingratiis, natu, juſſu, promptu, permiſſu, &amp;c.</hi>
+                  </p>
+                  <p n="3">3. <hi>Diptotes</hi> have two Caſes only, as N. <hi>dica,</hi> Acc. <hi>am;</hi> ſo <hi>ſuppetiae,</hi> as G. <hi>Tubi, bo,</hi> G. <hi>Spontis, verberis, jugeris,</hi> Abl. <hi>e.</hi> G. <hi>Repetundarum, dis.</hi>
+                  </p>
+                  <p n="4">
+                     <pb n="13" facs="tcp:95085:12"/>4. <hi>Triptotes</hi> have three Caſes; as G. <hi>ſordis, pri<g ref="char:EOLhyphen"/>moris, opis,</hi> Acc. <hi>em,</hi> Abl. <hi>c,</hi> D. <hi>preci,</hi> Acc. <hi>em,</hi> Abl. <hi>e.</hi>
+                  </p>
+                  <p>
+                     <hi>Mel, mulſum, defrutum, hordeum, far, forum, rus,</hi> and Nouns of the fifth Decl. have only the N. Acc. and V. Plur. Except <hi>res, ſpecies, facies, acies</hi> and <hi>dies. Plus</hi> wants D. and V. Sing. <hi>Nemo</hi> wants G. and V. Sing. and all the Plur. <hi>Frugis, ditionis, pro<g ref="char:EOLhyphen"/>ceris, dapis, vicis,</hi> want N. and V. <hi>Vis</hi> wants D. Sing. <hi>Vices,</hi> the G. Pl. Interrogatives, Negatives, Partitives, and all Pronouns want the Voc. Except <hi>Tu, meus, noster</hi> and <hi>noſtras.</hi>
+                  </p>
+                  <p>Some Nouns having but one Termination in the Nom. are yet of divers Declenſions, as theſe of the ſecond and fourth.</p>
+                  <p>S. N. <hi>Domus.</hi> G. <hi>mi</hi> or <hi>mus.</hi> D. <hi>mo</hi> or <hi>mui.</hi> Acc. <hi>um.</hi> V. <hi>us</hi> Abl. <hi>o.</hi>
+                  </p>
+                  <p>P. N. V. <hi>us.</hi> G. <hi>orum</hi> or <hi>uum.</hi> D. Abl. <hi>ibus.</hi> Acc. <hi>os,</hi> or <hi>us.</hi>
+                  </p>
+                  <p>N. <hi>Laurus.</hi> G. <hi>ri</hi> or <hi>rus.</hi> Abl. <hi>ro</hi> or <hi>ru.</hi> Pl. Acc <hi>ros</hi> or <hi>rus.</hi>
+                  </p>
+                  <p>N. <hi>Colus.</hi> G. <hi>li</hi> or <hi>lus.</hi> Abl <hi>lo</hi> or <hi>lu.</hi> In all o<g ref="char:EOLhyphen"/>ther Caſes they follow the form of the ſecond Declenſion.</p>
+                  <p>N. <hi>Quercus.</hi> G. <hi>ei</hi> or <hi>cus.</hi> Pl. G. <hi>corum</hi> or <hi>cuum</hi> In other Caſes following the fourth Declenſi<g ref="char:EOLhyphen"/>on. So <hi>Pinus, cornus,</hi> have <hi>u</hi> Sing. and <hi>us</hi> Pl.</p>
+                  <p>Some Nouns have one Gender Sing. another Plu<g ref="char:EOLhyphen"/>ral; as Sing. <hi>Tartarus, Avernus, Dindymus, Iſma<g ref="char:EOLhyphen"/>rus, Manalus, Maſſicus, Pangaeus, Taenarus, Tayge<g ref="char:EOLhyphen"/>tus, Sibilus,</hi> Maſc. Plur. <hi>a,</hi> Neut.</p>
+                  <p>S. <hi>Locus, jocus, eventus,</hi> Maſc. Pl. <hi>i</hi> Maſc. or <hi>a</hi> Neut.</p>
+                  <p>S. <hi>Carbaſus, Pergamus,</hi> Fem. Pl. <hi>à,</hi> Neut. So <hi>Su<g ref="char:EOLhyphen"/>pellex,</hi>
+                     <pb n="14" facs="tcp:95085:13"/> Fem. <hi>Supellectilia,</hi> Neut.</p>
+                  <p>S. <hi>Froenum, raſtrum, capiſtrum,</hi> Neut. Pl. <hi>i,</hi> Maſc. and <hi>a,</hi> Neut.</p>
+                  <p>S. <hi>Epulum, delicium,</hi> Neut. Pl. <hi>ae,</hi> Fem. So <hi>Balnc<g ref="char:EOLhyphen"/>um.</hi> Pl. <hi>ae,</hi> Fem. <hi>a,</hi> Neut.</p>
+                  <p>S. <hi>Coelum,</hi> Neut. Pl. <hi>i,</hi> Maſc.</p>
+                  <p>Some Nouns are of one Decl. Sing. another Plur. as S. <hi>jugerum,</hi> of the ſecond. Pl. <hi>jugera,</hi> of the third. S. <hi>vas, vaſis,</hi> of the third. Pl. <hi>vaſa, orum,</hi> of the ſecond.</p>
+               </div>
+               <div type="section">
+                  <head>Some Maſculines want the Plural; as</head>
+                  <p>Mundus, pontus, ſanguis, ceſtus, nemo, pudor, carcer, limus,</p>
+                  <p>Penus, pulvis, ſoper, viſcus, res, meridies <hi>and</hi> ſimus, <hi>With</hi> aether, aër, veſper, &amp;c.</p>
+               </div>
+               <div type="section">
+                  <head>Theſe Feminines want the Plural.</head>
+                  <list>
+                     <item>Fama, fuga, gaza, pituita, gloria,</item>
+                     <item>Lues, peſtis, humus, proſapia <hi>and</hi> cholera</item>
+                     <item>Lux, pubes, ſitis, paupertas, ſalus:</item>
+                     <item>Plebs, bilis, <hi>and</hi> contagio, <hi>alſo</hi> tellus,</item>
+                     <item>Indol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s <hi>and</hi> ſoboles, proles, fames, labes:</item>
+                     <item>Tuſſis, culpa, talio, nex <hi>and</hi> tabes.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Theſe Neuters want the Plural.</head>
+                  <list>
+                     <item>Fel, aevum, nihilum, lethum, ſalum, coenum:</item>
+                     <item>Ver, vulgus, ſenium, barathrum <hi>and</hi> penum.</item>
+                     <item>Virus, ſolum, pelagus, ſolium, juſtitium:</item>
+                     <item>Jubar, album, viſcum, gelu <hi>and</hi> delicium.</item>
+                     <pb n="15" facs="tcp:95085:13"/>
+                     <item>Lutum, callum, halec, ebur, vitrum:</item>
+                     <item>Foenum <hi>and</hi> macellum, faſcinum <hi>and</hi> nitrum.</item>
+                  </list>
+                  <p>
+                     <hi>No</hi> Proper Names <hi>us'd in the Plural are,</hi>
+                  </p>
+                  <p>
+                     <hi>But only ſuch as want the Singular.</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>Many which ſignifie ſuch things as theſe, want the Plural.</hi>
+                     </item>
+                     <item>
+                        <hi>Things ſold by</hi> weight, Age, <hi>or</hi> Diſeaſe, <hi>want the Plural.</hi>
+                     </item>
+                     <item>Arts, Trades <hi>or</hi> Sciences, Vertues <hi>or</hi> Vices, <hi>want the Plural.</hi>
+                     </item>
+                     <item>Herbs, Liquors, Metals, Grain <hi>or</hi> Spices <hi>want the Plural.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Theſe Maſculines want the Singular.</head>
+                  <list>
+                     <item>Liberi, cancelli, cani, penates, ſales:</item>
+                     <item>Artus, ſaſti, ſuperi, inferi, annales.</item>
+                     <item>Antes, manes, Lemures, coelites, natales.</item>
+                     <item>Carceres, primores, gemini, faſces, Lares:</item>
+                     <item>Loci, fori, proceres, caſſes, pugillares.</item>
+                     <item>Triplices, <hi>and</hi> vepres, <hi>with</hi> Gabii, Locri, <hi>and ma<g ref="char:EOLhyphen"/>ny ſuch Names of Places.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Theſe Feminines want the Singular.</head>
+                  <list>
+                     <item>Alpes, ambages, aedes, antiae, argutiae:</item>
+                     <item>Groſſi, opes, ſores, copiae, minutiae.</item>
+                     <item>Crates, dirae, genae, inſidiae, offuciae</item>
+                     <item>Sordes, inimicitiae, exuviae, induciae,</item>
+                     <item>Furiae, exequiae, ſcopae <hi>and</hi> manubiae:</item>
+                     <item>Fauces, valvae, minae, gerrae <hi>and</hi> excubiae.</item>
+                     <item>Tricae <hi>and</hi> Apinae, ſcalae <hi>and</hi> blanditiae:</item>
+                     <item>Vigiliae, praeſtigiae, plagae <hi>and</hi> divitiae.</item>
+                     <item>Grates, idus, nonae, calendae <hi>and</hi> vinditiae:</item>
+                     <item>Cunae, ſalae, compedes, primitiae.</item>
+                     <pb n="16" facs="tcp:95085:14"/>
+                     <item>Nundinae, inferiae, ceremoniae, illecebrae:</item>
+                     <item>Nuptiae, lactes, decimae, oreae <hi>and</hi> tenebrae.</item>
+                     <item>Stativae, nugae, ſalebrae, clitellae <hi>and</hi> facetiae:</item>
+                     <item>Antiae, parcae, quiſquiliae, ſalinae <hi>and</hi> ſuppetiae.</item>
+                     <item>Phalerae, relliquiae, vigiliae <hi>and</hi> bigae:</item>
+                     <item>Paleae <hi>and</hi> Thermae, trigae <hi>and</hi> quadrigae.</item>
+                     <item>
+                        <hi>With</hi> Athenae, Thebae, <hi>and other Names of Places.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Theſe Neuters want the Singular.</head>
+                  <list>
+                     <item>Ilia, roſtra, arma, paſcua, bellaria:</item>
+                     <item>Munia, juſta, exta, flabra, adverſaria.</item>
+                     <item>Compita, vinacea, praecordia, cibaria:</item>
+                     <item>Teſqua, verenda, luſtra, acta, genitalia.</item>
+                     <item>Scruta <hi>and</hi> crepundia, cunabula, mapalia.</item>
+                     <item>Oblivia, ſtativa, ſponſalia, multicia:</item>
+                     <item>Cete, Tempe, mele, magalia, nutricia.</item>
+                     <item>Praebia, caſtra, aſtiva, hiberna, parentalia</item>
+                     <item>Natalitia <hi>and Feaſts as</hi> Bachanalia.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="part">
+               <head>Adjectives.</head>
+               <p>
+                  <hi>Adjectives which have three endings in the Nom. are thus declined.</hi>
+               </p>
+               <p>Bonus. us,</p>
+               <p>Pulcher. <hi>S.</hi> er, a, um. <hi>G.</hi> i, ae, i. <hi>D.</hi> o, ae, o. <hi>Acc.</hi>
+               </p>
+               <p>Satur. ur.</p>
+               <p>e,</p>
+               <p>um, am, um. <hi>V.</hi> er, a um. <hi>Abl.</hi> o, a, o.</p>
+               <p>ur,</p>
+               <p>
+                  <hi>P. N. V.</hi> i, ae, a. <hi>G.</hi> orum, arum, orum. <hi>D. Abl.</hi> is. <hi>Acc.</hi> os, as, a.</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>nus; ullus, nullus, neuter, totus, ſolus, alius, uter, <hi>and</hi> alter, <hi>make G.</hi> ius. <hi>D.</hi> i.</p>
+               <pb n="17" facs="tcp:95085:14"/>
+               <p>Ambo <hi>and</hi> Duo <hi>are only Plural, and are thus declined,</hi>
+               </p>
+               <p>
+                  <hi>N. V.</hi> o, ae, o. <hi>G.</hi> orum, arum, orum. <hi>D. Abl.</hi> obus, abus, obus. <hi>Acc.</hi> os, as, o.</p>
+               <div type="section">
+                  <head>Adjectives of two Terminations in the No<g ref="char:EOLhyphen"/>minative are thus declined.</head>
+                  <p>
+                     <hi>Triſtis.</hi> S. N V <hi>is, c.</hi> G. <hi>is.</hi> D. Abl. <hi>i.</hi> Acc <hi>em, e.</hi> Pl. N Acc. V. <hi>es, ia.</hi> G. <hi>ium.</hi> D. Abl. <hi>il us.</hi>
+                  </p>
+                  <p>Comparatives in <hi>or,</hi> have the Neut. <hi>us,</hi> as <hi>Triſtior, triſcius.</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>Celer, celeber; ſylveſter,</hi> May be thus declined. N. <hi>er,</hi> Maſc. <hi>is,</hi> Fem. <hi>e,</hi> Neut. or N. <hi>is,</hi> M. and F. <hi>e,</hi> N.</item>
+                     <item>
+                        <hi>Saluber, volucer, equeſter,</hi> May be thus declined. N. <hi>er,</hi> Maſc. <hi>is,</hi> Fem. <hi>e,</hi> Neut. or N. <hi>is,</hi> M. and F. <hi>e,</hi> N.</item>
+                     <item>
+                        <hi>Paluſter</hi> and <hi>Campeſter,</hi> May be thus declined. N. <hi>er,</hi> Maſc. <hi>is,</hi> Fem. <hi>e,</hi> Neut. or N. <hi>is,</hi> M. and F. <hi>e,</hi> N.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Adjectives of one ending in the Nominative, are thus declined.</head>
+                  <p>
+                     <hi>Felix.</hi> S. N. V. <hi>x. &amp;c.</hi> G. <hi>is.</hi> D. <hi>i.</hi> Acc <hi>em, x.</hi> Abl. <hi>e</hi> or <hi>i.</hi> Pl. N. Acc. V. <hi>es, ia.</hi> G. <hi>ium.</hi> D Abl. <hi>ibus.</hi>
+                  </p>
+                  <p>Where an Adjective hath but <hi>one</hi> ending in any Caſe it is of all three Genders, where it hath <hi>two</hi> endings, the <hi>firſt</hi> is Maſc. and Fem. and the <hi>ſecond</hi> Neut. Where it hath <hi>three</hi> endings, the <hi>firſt</hi> is Maſc. the <hi>ſecond</hi> Fem. the <hi>third</hi> Neut.</p>
+               </div>
+               <div type="section">
+                  <head>Compariſon of Adjectives.</head>
+                  <p>Adjectives which may have <hi>more</hi> or <hi>moſt</hi> before them, may be compared. There be three degrees of
+<pb n="18" facs="tcp:95085:15"/> 
+                     <hi>Compariſon, Poſitive, Comparative</hi> and <hi>Superlative;</hi> as <hi>Hard, more hard, moſt hard,</hi> or <hi>hard, harder, hardeſt.</hi>
+                  </p>
+                  <p>The Latin Comparative is made of the firſt Caſe of the Poſitive ending in <hi>i,</hi> by adding <hi>or</hi> for the Maſc. and Fem. and <hi>us</hi> for the Neut. as of <hi>duri,</hi> hard; is made the Comparative, <hi>durior</hi> and <hi>durius.</hi>
+                  </p>
+                  <p>The Latin Superlative turns <hi>i</hi> into <hi>iſſimus;</hi> as <hi>Duri, duriſſimus;</hi> or <hi>er</hi> into <hi>errimus;</hi> as <hi>pulcher, pulcherrimus.</hi>
+                  </p>
+                  <p>
+                     <hi>Facilis, humilis, ſimilis,</hi> make the Superlative <hi>illimus.</hi>
+                  </p>
+                  <p>Adjectives compounded of <hi>Dico, loquor, volo, fa<g ref="char:EOLhyphen"/>cio,</hi> make <hi>entior, entiſſimus.</hi> Only <hi>Miriſicus</hi> hath <hi>ciſſimus.</hi>
+                  </p>
+                  <p>Adjectives having a Vowel before <hi>us,</hi> are not com<g ref="char:EOLhyphen"/>pared, but inſtead of a Comparative and Superla<g ref="char:EOLhyphen"/>tive <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ake before them <hi>magis</hi> and <hi>maximè:</hi> yet <hi>pius</hi> hath both <hi>piiſſimus</hi> and <hi>pientiſſimus.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Irregular Compariſon.</head>
+                  <p>Bonus, melior, optimus, <hi>Good, better, beſt.</hi> Ma<g ref="char:EOLhyphen"/>lus, po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or, peſſimus, <hi>Bad, worſe, worſt.</hi> Parvus, mi<g ref="char:EOLhyphen"/>nor, minimus, <hi>Little, leſs, leaſt.</hi> Magnus, major, maximus, <hi>Great, greater, greateſt. So</hi> Multus, plu<g ref="char:EOLhyphen"/>vimus; multa, plurima; multum, plus, plurimum. V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tus, terior, terrimus. Matur, turior, turiſſimus <hi>and</hi> turrimus. Exterus, terior, Iremus <hi>and</hi> timus. Superus, perior, ſupremus <hi>and</hi> ſummus. Inferus, ſerior, inſimus <hi>and</hi> mius. Poſterus, terior, poſiremus <hi>and</hi> poſcumuse Nequam, nequi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, nequiſſimus.</p>
+               </div>
+               <div type="section">
+                  <pb n="19" facs="tcp:95085:15"/>
+                  <head>Theſe want the Poſitive.</head>
+                  <p>Ocior, potior, penitior, iſſimus: Prior, primus: Dete<g ref="char:EOLhyphen"/>rior, terrimus: Interior, ulterior, timus: Propior, prox<g ref="char:EOLhyphen"/>imus.</p>
+               </div>
+               <div type="section">
+                  <head>Theſe want the Comparative</head>
+                  <p>Bellus, apricus, meritus, conſultus, falſus, diverſus, fulus, ſacer, inclytus, perſuaſus, novus, mutus, ſacrile<g ref="char:EOLhyphen"/>gus, invitus, inviſus, invictus.</p>
+               </div>
+               <div type="section">
+                  <head>Theſe want the Superlative</head>
+                  <p>Declivis, longinquus, ſalutaris, ſupinus, adoleſcens, ingens, inſinitus, taciturnus, opi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us. Dexter, ſimſter, tertor. Juvenis, jun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or. Senex, ſenior.</p>
+               </div>
+               <div type="section">
+                  <head>Theſe are only Comparative.</head>
+                  <p>Anterior, licentior, ſati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, ſequior.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Derivatives.</head>
+               <p>
+                  <hi>Of Derivatives, ſome are 1.</hi> Poſſeſſives, <hi>as</hi> Pegi<g ref="char:EOLhyphen"/>us, herilis. <hi>2.</hi> Gentiles, <hi>as</hi> Anglus, Macedo, Cres. <hi>3.</hi> Diminutives, <hi>as</hi> Regulus. <hi>4.</hi> Imitatives, <hi>as</hi> Poe<g ref="char:EOLhyphen"/>taſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. <hi>5.</hi> Verbals, <hi>as</hi> Lectio. <hi>6.</hi> Adverbials, <hi>as</hi> Craſtinus. <hi>7.</hi> Participials, <hi>as</hi> Sapiens. <hi>8.</hi> Patrony<g ref="char:EOLhyphen"/>micks, <hi>as</hi> Aeacides, Anchiſiades, <hi>Maſc.</hi> Theſcias, Nereis, Adraſtine, <hi>Fem. 9.</hi> Numerals <hi>of divers
+<pb n="20" facs="tcp:95085:16"/> ſorts; as 1.</hi> Cardinals, <hi>as</hi> duo, tres. <hi>2.</hi> Ordinals, <hi>as</hi> primus, ſecundus. <hi>3.</hi> Diſtributives, <hi>as</hi> bini, terni. <hi>4.</hi> Multiplicatives, <hi>as</hi> duplex, triplex. <hi>5.</hi> Proportionals, <hi>as</hi> duplum, triplum. <hi>6.</hi> Temporals, <hi>as</hi> Bimus, biennis. <hi>7.</hi> Ponderals, <hi>as</hi> binarius, ternarius.</p>
+            </div>
+            <div type="part">
+               <head>Pronouns.</head>
+               <p>
+                  <hi>A</hi> Pronoun <hi>is a Word much like a Noun implying a</hi> Perſon, <hi>and cannot have</hi> a, an <hi>or</hi> the <hi>before it; as</hi> I, thou, he, ſhe, it, this, that, who, which, what, his, her, our, your, my, mine, thy, thine, whoſe, &amp;c.</p>
+               <p>
+                  <hi>There be eighteen Latin Pronouns: Three Pro<g ref="char:EOLhyphen"/>noun Subſtantives,</hi> Ego, tu, ſui, <hi>and fifteen Adje<g ref="char:EOLhyphen"/>ctives,</hi> Ille, iſle, ipſe, is, hic, qui, quis, meus, tuus, ſu<g ref="char:EOLhyphen"/>us, noſter, veſter, noſtras, veſtras <hi>and</hi> cujas.</p>
+               <div type="section">
+                  <head>The Declenſion of Pronoun Subſtantives.</head>
+                  <p>
+                     <hi>Ego.</hi> S. N. <hi>Ego,</hi> I. G. <hi>mei,</hi> of me. D. <hi>mihi,</hi> to me. Acc. Abl. <hi>me,</hi> me or by me.</p>
+                  <p>P. N. Acc. <hi>Nos,</hi> we or us. O. <hi>noſtrum</hi> or <hi>tri,</hi> of us. D. Abl. <hi>nobis,</hi> to or by us.</p>
+                  <p>
+                     <hi>Tu.</hi> S. N. V. <hi>Tu,</hi> thou. G. <hi>tui.</hi> D. <hi>tibi.</hi> Ac. Abl. <hi>te.</hi> P. N. Acc. V. <hi>Vos.</hi> G. <hi>veſtrûm,</hi> or <hi>tri.</hi> D. Ab. <hi>vobis.</hi>
+                  </p>
+                  <p>
+                     <hi>Sui</hi> S. and Pl. G. <hi>Sui.</hi> D <hi>ſibi.</hi> Acc. Abl. <hi>ſe.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The firſt Declenſion of Pronoun Adjectives.</head>
+                  <p>Meus, tuus, ſuus, noſter, veſter, <hi>are declined like Adjectives of three endings. Only</hi> meus <hi>makes V.</hi> na, mea, meum.</p>
+                  <pb n="21" facs="tcp:95085:16"/>
+                  <p>Ille, ipſe, iste, <hi>are declined in like manner, only making the G.</hi> ius, <hi>and the D.</hi> i; <hi>and</hi> ille, iſte, <hi>make the N. and Acc. Neut.</hi> ud.</p>
+                  <p>Is. <hi>S. N.</hi> is, ea, id. <hi>G.</hi> ejus. <hi>D.</hi> ei. <hi>Acc.</hi> eum, eam, id. <hi>Abl.</hi> co, ea, eo.</p>
+                  <p>
+                     <hi>P. N.</hi> ii, eae, ea. <hi>G.</hi> corum, earum, eorum. <hi>D. Abl.</hi> iis <hi>or</hi> cis. <hi>Acc.</hi> cos, cas, ea.</p>
+                  <p>Qui. <hi>S. N.</hi> qui, que, quod. <hi>G.</hi> cujus. <hi>D.</hi> cui. <hi>Acc.</hi> quem, quam, quod. <hi>Abl.</hi> quo, qua, quo.</p>
+                  <p>
+                     <hi>P. N.</hi> qui, quae, quae. <hi>G.</hi> quorum, quarum, quo<g ref="char:EOLhyphen"/>rum. <hi>D. Abl.</hi> quibus <hi>or</hi> queis. <hi>Acc.</hi> quos, quas, quae. <hi>So</hi> quis, <hi>making the Neuter</hi> quid.</p>
+                  <p>Hic. <hi>S. N.</hi> hic, haec, hoc. <hi>G.</hi> hujus. <hi>D.</hi> huic. <hi>Acc.</hi> hunc, hanc, hoc. <hi>Abl.</hi> hoc, hac, hoc.</p>
+                  <p>
+                     <hi>P. N.</hi> hi, hae, haec. <hi>G.</hi> horum, harum, horum. <hi>D. Abl.</hi> his. <hi>Acc.</hi> hos, has, haec.</p>
+               </div>
+               <div type="section">
+                  <head>The ſecond Declenſion of Pronoun Ad<g ref="char:EOLhyphen"/>jectives.</head>
+                  <p>
+                     <hi>Noſtas, veſtras, cujas.</hi>
+                  </p>
+                  <p>S. N. V. <hi>as.</hi> G. <hi>atis.</hi> D. <hi>ati.</hi> Acc. <hi>atem</hi> and <hi>te.</hi> Abl. <hi>te</hi> or <hi>ti.</hi> Pl. N. Acc. V. <hi>ates</hi> and <hi>atia.</hi> G. <hi>atium.</hi> D. Abl. <hi>atibus.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Compound Pronouns.</head>
+                  <p>Aliquis, nequis, nunquis, ſiquis, ecquis; <hi>like</hi> quis, <hi>only making</hi> qua <hi>for</hi> quae.</p>
+                  <p>Quivis, quilibet, quiſnam, quiſque, quicunque, qui<g ref="char:EOLhyphen"/>dam, quistiam; <hi>like</hi> qui <hi>and</hi> quis.</p>
+                  <pb n="22" facs="tcp:95085:17"/>
+                  <p>Idem, <hi>like</hi> is. <g ref="char:V">Ʋ</g>nuſquiſque, <hi>like</hi> unus <hi>and</hi> quis <hi>in all Caſes.</hi>
+                  </p>
+                  <p>Iſtic, <hi>like</hi> hic, <hi>making the Neut. N. and Acc.</hi> oc <hi>or</hi> uc.</p>
+                  <p>
+                     <hi>N. Acc.</hi> Quiſquis, quicquid. <hi>Abl.</hi> quoquo, quaqua, quoquo.</p>
+                  <p>
+                     <hi>Abl.</hi> Mecum, tecum, ſecum, nobiſcum, vobiſcum. Meapte, tuapte, ſuapte, noſtrapte, veſtrapte. <hi>Some<g ref="char:EOLhyphen"/>times</hi> opte. <hi>Acc.</hi> Eccum, ellum.</p>
+                  <p>Hic, <hi>admits the ending</hi> cine, <hi>in all Caſes ending with</hi> c. <hi>So we read</hi> hicce, hujuſce, huncce, hoſce, ejuſce, cujuſce. Ego <hi>may take the ending</hi> met, <hi>ſo may</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>and</hi> ſui. <hi>So are read</hi> tutemet, tute, tete.</p>
+               </div>
+               <div type="section">
+                  <head>Species or Kinds of Pronouns.</head>
+                  <p>Ego, tu, ſui, ille, ipſe, iſte, hic, is, qui. quis, <hi>are</hi> Pri<g ref="char:EOLhyphen"/>mitives, <hi>the reſt</hi> Derivatives.</p>
+                  <p>Quis, cujas, <hi>when a Queſtion is asked, are</hi> Inter<g ref="char:EOLhyphen"/>rogatives; <hi>otherwiſe,</hi> Indefinites.</p>
+                  <p>Ego, tu, hic, ille, ipſe, iſte, <hi>and ſometimes</hi> is, <hi>are</hi> Demonſtratives.</p>
+                  <p>Qui, <hi>is a</hi> Relative. Meus, tuus, ſuus, noſter, veſter, <hi>are</hi> Poſſeſſives. Sui <hi>and</hi> ſuus <hi>are called</hi> Reciprocals. Noſtras, veſtras, cujas <hi>are called</hi> Gentiles.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Verbs.</head>
+               <p>A <hi>Verb</hi> is a Word which ſignifies, <hi>to do,</hi> to <hi>be,</hi> or to <hi>be done.</hi>
+               </p>
+               <p>A Verb <hi>Perſonal</hi> is formed in all three Perſons; a Verb <hi>Imperſonal</hi> in the third Perſon only.</p>
+               <pb n="23" facs="tcp:95085:17"/>
+               <p>There be four kinds of Verbs, <hi>Active, Paſſive, Neuter</hi> and <hi>Deponent.</hi>
+               </p>
+               <p>A Verb <hi>Active</hi> or <hi>Tranſitive</hi> ſignifies to <hi>do</hi> ſome<g ref="char:EOLhyphen"/>thing towards another, and in Latin ends in <hi>o,</hi> as <hi>amo,</hi> I love; by adding <hi>r,</hi> it is made a Paſſive, as <hi>amor.</hi>
+               </p>
+               <p>A Verb <hi>Paſſive</hi> ſignifies to <hi>be done</hi> to by another, and in Latine ends in <hi>or,</hi> as <hi>amor,</hi> I am loved; and by loſing <hi>r</hi> is made an Active, as <hi>amo.</hi>
+               </p>
+               <p>A Verb <hi>Neuter</hi> ſignifies an <hi>abſolute doing, being</hi> or <hi>ſuffering,</hi> and in Latin ends in <hi>o</hi> or <hi>m;</hi> as <hi>Sio,</hi> I ſtand, <hi>frigeo,</hi> I am cold. <hi>Sum,</hi> I am; it cannot take <hi>r</hi> to make it a Paſſive. <hi>Sum, forem, exiſto,</hi> are Neuter-Subſtantives. <hi>Vapulo, veneo, ſio, liceo,</hi> are called Neuter-Paſſives.</p>
+               <p>A Verb <hi>Deponent</hi> in Latin ends in <hi>or,</hi> and ſignifies either Actively, as <hi>Sequor,</hi> I follow; or Abſolutely, as <hi>Morior,</hi> I die; or both Actively and Paſſively, as <hi>Oſculor,</hi> I kiſs, or am kiſſed.</p>
+               <div type="section">
+                  <head>Moods and Tenſes.</head>
+                  <p>Verbs have four <hi>Moods.</hi> 1. The <hi>Indicative</hi> Mood, <hi>declaring</hi> or <hi>ſhewing.</hi> 2. The <hi>Imperative</hi> Mood, <hi>bidding</hi> or <hi>commanding.</hi> 3. The <hi>Potential</hi> Mood, <hi>implying</hi> ſome <hi>poſſibility.</hi> 4. The <hi>Infinitive,</hi> without <hi>Number</hi> or <hi>Perſon.</hi>
+                  </p>
+                  <p>Verbs have five <hi>Tenſes.</hi> 1. The <hi>Preſent,</hi> noting the time which now is. 2. The <hi>Praeterimperfect,</hi> noting the time paſſing not quite paſt 3. The <hi>Prae<g ref="char:EOLhyphen"/>terperfect,</hi> noting the time quite paſt. 4. The <hi>Praeter pluperfect,</hi> noting a time before another time paſt. 5. The <hi>Future,</hi> noting the time to come.</p>
+               </div>
+               <div type="section">
+                  <pb n="24" facs="tcp:95085:18"/>
+                  <head>An Engliſh Verb formed through all Moods and Tenſes, with their proper Signs, in the Active Voice.</head>
+                  <div type="subsection">
+                     <head>Indicative Mood.</head>
+                     <p>Tenſes</p>
+                     <p>Praeſent. <hi>S. 1. Perſ.</hi> I love, or do love. <hi>2. Perſ.</hi> thou loveſt or doſt love. <hi>3. Perſ.</hi> he loveth or doth love. <hi>Pl. 1.</hi> We, <hi>2.</hi> ye, <hi>3.</hi> they love or do love.</p>
+                     <p>Praeterimperf <hi>S.</hi> I loved or did, thou lovedſt or didſt, he loved or did love. <hi>Pl.</hi> We, ye, they loved or did love.</p>
+                     <p>Praeterperf. <hi>S.</hi> I have, thou haſt, he hath. <hi>Pl.</hi> We, ye, they have loved.</p>
+                     <p>Praeterplup. <hi>S.</hi> I had, thou hadſt, he had. <hi>Pl.</hi> We, ye, they had loved.</p>
+                     <p>Fut. <hi>S.</hi> I ſhall or will, thou ſhalt or wilt, he ſhall or will love. <hi>Pl.</hi> We, &amp;c.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Imperative Mood.</head>
+                     <p>The Imperative wants the firſt Perſon Singular, and hath only the Preſent Tenſe.</p>
+                     <p>S. 2. Perſ. <hi>Love thou, or do thou love.</hi>
+                     </p>
+                     <p n="3">3. Perſ. <hi>Let him love.</hi>
+                     </p>
+                     <p>Pl. <hi>Let us love. Love ye. Let them love.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="25" facs="tcp:95085:18"/>
+                     <head>Potential Mood.</head>
+                     <p>The Potential Mood in Engliſh is like the Indica<g ref="char:EOLhyphen"/>tive, only it hath theſe Signs. Praeſ. <hi>May or can, mayſt or canſt.</hi> Praeterimp. <hi>Might, would, ſhould, ought or could.</hi> Praeterp. <hi>Might have, &amp;c.</hi> Praeterpl. <hi>Might had, &amp;c.</hi> Future, <hi>May or can hereafter.</hi>
+                     </p>
+                     <p>When this Mood hath the Conjunctions, <hi>If, that, when, &amp;c.</hi> joyned with it, 'tis called the <hi>Subjunctive.</hi> When it hath an Adverb of <hi>wiſhing,</hi> it is called the <hi>Optative.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <head>The Infinitive.</head>
+                     <p>Praeſent and Praeterimp. <hi>To love.</hi> Praeterper. and Praeterpl. <hi>To have or had loved.</hi> Future, <hi>To love hereafter.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The Verb Subſtantive <hi>Am</hi> formed.</head>
+                  <div type="subsection">
+                     <head>Indicative Mood.</head>
+                     <p>
+                        <hi>Praeſ. S.</hi> I am, thou art, he is. <hi>Pl.</hi> We, ye, they are.</p>
+                     <p>
+                        <hi>Imp. S.</hi> I was, thou wast, he was. <hi>Pl.</hi> We, ye, they were.</p>
+                     <p>
+                        <hi>Perf. S.</hi> I have been, thou hast been, he hath been. <hi>Pl.</hi> We, ye, they have been.</p>
+                     <p>
+                        <hi>Plup. S.</hi> I had, thou hadſt, he had been. <hi>Pl.</hi> We, ye, they had been.</p>
+                     <p>
+                        <hi>Fut. S.</hi> I ſhall or will, thou ſhalt or wilt, he ſhall or will be. <hi>Pl.</hi> We, &amp;c.</p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="26" facs="tcp:95085:19"/>
+                     <head>Imperative.</head>
+                     <p>
+                        <hi>S.</hi> Be thou. Let him be. <hi>Pl.</hi> Let us be. Be ye. Let them be.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Potential.</head>
+                     <p>
+                        <hi>Praeſ.</hi> I may be, &amp;c. <hi>Imp.</hi> I might be, &amp;c. <hi>Perf.</hi> I might have been, &amp;c. <hi>Plup.</hi> I might had been, &amp;c. <hi>Fut.</hi> I may be hereafter.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Infinitive.</head>
+                     <p>
+                        <hi>Praeſ. and Imp.</hi> To be. <hi>Perf. and Plup.</hi> To have or had been. <hi>Fut.</hi> To be hereafter.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>A Verb Paſsive.</head>
+                     <p>Add the Engliſh of the <hi>Praeterperfect</hi> Tenſe <hi>Active</hi> to all the Tenſes of <hi>Am,</hi> and you form the Verb Paſſive; as <hi>I am loved, I was loved, &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Do, doſt, doth, did, didſt, have, haſt, hath, had, will, may, can, might, would, ſhould, &amp;c. am, art, is, be, were, &amp;c.</hi> when ſet alone, are Verbs: but if they come before the Engliſh of a Verb, they are <hi>Signs</hi> of Moods and Tenſes.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Conjugations of Latin Verbs.</head>
+                  <p>There be four <hi>Conjugations</hi> of Latin Verbs.</p>
+                  <pb n="27" facs="tcp:95085:19"/>
+                  <p>Verbs of the firſt Conjugation make the ſecond Perſon Praeſent <hi>as,</hi> the firſt Perſon Praeter <hi>avi,</hi> the Infinitive <hi>āre,</hi> with <hi>ā</hi> long, the Supines, <hi>atum, atu;</hi> as <hi>amo, as, avi, āre, atum.</hi> Thus formed in the Active.</p>
+                  <div type="subsection">
+                     <head>Indicative Mood. Active.</head>
+                     <p>Amo.</p>
+                     <p>
+                        <hi>Praeſ. S.</hi> o, as, at. <hi>Pl.</hi> amus, atis, ant. <hi>Imperf.</hi> a<g ref="char:EOLhyphen"/>bam, bas, bat. <hi>Pl.</hi> abamus, batis, bant.</p>
+                     <p>
+                        <hi>Praet. S.</hi> avi, aviſti, avit. <hi>Pl.</hi> avimus, averunt vel avêre.</p>
+                     <p>
+                        <hi>Plup. S.</hi> averam, ras, at <hi>Pl.</hi> ramus, ratis, rant, <hi>Fut.</hi> abo, bis, bit. <hi>Pl.</hi> abimus, abitis, abunt.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Imperative Mood.</head>
+                     <p>
+                        <hi>S.</hi> a <hi>or</hi> ato. et <hi>or</hi> ato. <hi>Pl.</hi> emus. ate <hi>or</hi> atote. ent <hi>or</hi> anto.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Potential Mood.</head>
+                     <p>
+                        <hi>Praeſ. S.</hi> em, es, et. <hi>Pl.</hi> emus, etis, ent. <hi>Imperf</hi> arem, res, ret. <hi>Pl.</hi> remus, retis, rent.</p>
+                     <p>
+                        <hi>Praet. S.</hi> averim, ris, rit. <hi>Pl.</hi> rĭmus rĭtis, rint. <hi>Plup.</hi> aviſſem, ſes, ſet. <hi>Pl.</hi> ſemus, ſetis ſent.</p>
+                     <p>
+                        <hi>Fut. S.</hi> avero, ris, rit. <hi>Pl.</hi> rīmus, rītis, rint.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Infinitive Mood.</head>
+                     <p>Praeſ. and Imp. <hi>āre.</hi> Praet. and Plup. <hi>aviſſe.</hi> Fut. <hi>a<g ref="char:EOLhyphen"/>turum eſſe.</hi>
+                     </p>
+                     <pb n="28" facs="tcp:95085:20"/>
+                     <p>Gerunds, <hi>andi, ando, andum.</hi> Supines, <hi>atum, atu.</hi>
+                     </p>
+                     <p>From the Praeter come all Tenſes in <hi>ram, rim, ro, ſem, ſe,</hi> with the Supines; all other Tenſes come from the Praeſent.</p>
+                     <p>
+                        <hi>Do,</hi> and his Compounds have <hi>ă</hi> ſhort in the Infini<g ref="char:EOLhyphen"/>tive.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Rules for the Praeter and Supines.</head>
+                     <p>Do, ſatiſdo, peſſundo, circundo, venundo, <hi>make</hi> dedi, datum. Sto, ſteti, ſtatum. <hi>Its Compounds</hi> ſtiti, ſti<g ref="char:EOLhyphen"/>tum; <hi>only</hi> circumſto, ſteti. Praeſto, eonſto, reſto, exto, <hi>have the Participle</hi> ſtaturus.</p>
+                     <p>Cubo, domo, tono, veto, crepo, ſono, <hi>and</hi> increpo, ui, itum. Diſcrepo, <hi>hath alſo</hi> avi, atum.</p>
+                     <p>Seco, ſecui, ſectum, <hi>and</hi> ſecaturus. Eneco, enecui, enectum, <hi>and</hi> cavi cautum.</p>
+                     <p>Frico, fricui, frictum. Adjuvo, adjuvi, adjurum, <hi>ſometimes</hi> juvatum.</p>
+                     <p>Lavo, lavi, lotum, lautum <hi>and</hi> lavatum. Dimico, micui <hi>and</hi> micavi, catum.</p>
+                     <p>Poto, potavi, potum <hi>and</hi> potatum.</p>
+                     <p>Multiplico, ſupplico, replico, duplico, triplico, cavi, catum.</p>
+                     <p>Applico, explico, implico, complico, ui, itum, <hi>and</hi> avi, atum.</p>
+                     <p>Nexo, labo, <hi>want both</hi> Prater <hi>and Supines.</hi> Juvo, juvi: Mico, emico, micui, <hi>want Supines.</hi>
+                     </p>
+                     <p>Damno, ſacro, lacto, patro, tracto, <hi>compounded turn</hi> a <hi>into</hi> e: <hi>yet we find</hi> ablacto, retracto, pertracto. <hi>Of</hi> Juro, <hi>come the Compounds,</hi> dejero, pejero; <hi>and of</hi> mande, commendo.</p>
+                     <p>Calco, ſalto <hi>compounded turn</hi> a <hi>into</hi> u, <hi>as</hi> inculco, infulio.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb n="29" facs="tcp:95085:20"/>
+                  <head>The ſecond Conjugation.</head>
+                  <p>Verbs of the ſecond Conjugation end in <hi>eo,</hi> and make the ſecond Perſon Preſent <hi>es,</hi> the firſt Perſon Praeter <hi>ui,</hi> the Infinitive <hi>ēre,</hi> with <hi>e</hi> long, the Supines <hi>itum, itu;</hi> as <hi>Habeo, es, ui, ēre, itum, itu.</hi>
+                  </p>
+                  <div type="subsection">
+                     <head>Indicative Mood.</head>
+                     <p>Habeo.</p>
+                     <p>
+                        <hi>Praeſ. S.</hi> co, es, et. <hi>Pl.</hi> emus, etis, ent. <hi>Imperf.</hi> e<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, bas, bat. <hi>Pl.</hi> bamus, &amp;c.</p>
+                     <p>
+                        <hi>Praet. S</hi> ui, uiſci, uit. <hi>Pl.</hi> uimus, uiſtis, uerunt <hi>or</hi> uêre. <hi>Pluper.</hi> ueram, ras, &amp;c.</p>
+                     <p>
+                        <hi>Fut. S.</hi> ebo, bis, bit. <hi>Pl.</hi> ebimus, &amp;c.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Imperative.</head>
+                     <p>
+                        <hi>S.</hi> e <hi>or</hi> eto. eat <hi>or</hi> eto. <hi>Pl.</hi> eamus, eto <hi>or</hi> etote, eant <hi>or</hi> ento.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Potential Mood:</head>
+                     <p>
+                        <hi>Praeſ. S.</hi> eam, eas, eat, &amp;c. <hi>Imper.</hi> erem, res, &amp;c. <hi>Praet.</hi> u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rim, ris, &amp;c.</p>
+                     <p>
+                        <hi>Pluper. S.</hi> uiſſem, ſes, &amp;c. <hi>Fut.</hi> uoro, ris, rit, &amp;c.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Infinitive Mood.</head>
+                     <p>
+                        <hi>Praeſ. and Imper.</hi> ē<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e. <hi>Praet. &amp; Plup.</hi> uiſſe. <hi>Fut.</hi> itu<g ref="char:EOLhyphen"/>rum eſſe. <hi>Gerunds,</hi> endi, endo, endum. <hi>Supines,</hi> itum, itu.</p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="30" facs="tcp:95085:21"/>
+                     <head>Irregular <hi>Praeters</hi> and Supines.</head>
+                     <p>Mulceo, tergeo, rideo, ardeo, ſuadeo, hareo, <hi>ſi, ſum.</hi> Video, prandeo, <hi>di, ſum.</hi> Jubeo, juſſi, juſſum. Sorbeo, <hi>bui, ſorptum.</hi> Abſorbeo, reſorbeo, exſorbeo, <hi>have al<g ref="char:EOLhyphen"/>ſo</hi> ſorpſi. Doceo, docui, doctum. Miſceo, miſcui, mix<g ref="char:EOLhyphen"/>tum <hi>and</hi> miſtum. Sedeo, obſideo, ſedi, ſeſſum. Frendeo, di, freſſum. Spondeo, ſpospendi, ſponſum. Tondeo, to<g ref="char:EOLhyphen"/>tondi, tonſum. Mordeo, momordi, morſum. Indulgeo, dulſi, dultum. Mulgeo, ſi, ctum. Augeo, lugeo, xi, ctum. Delco, fleo, neo, vieo, <hi>and the Compounds of</hi> pleo, evi, etum. Tenco, abſtineo, contineo, detineo, reti<g ref="char:EOLhyphen"/>neo, nui, tentum. Maneo <hi>and its Compounds</hi> manſi, manſum. Torqueo, torſi, tortum. Torreo, torrui, to<g ref="char:EOLhyphen"/>ſtum. Cenſeo, cenſui, cenſum. Moveo, foveo, voveo, o<g ref="char:EOLhyphen"/>vi, otum. Caveo, faveo, avi, autum. Cico, civi, citum.</p>
+                     <p>Aveo, flaveo, polieo, renideo, glabreo, denſeo, liveo, clueo, medeor, liquet, poenitet, <hi>want both Praet. and Supines.</hi>
+                     </p>
+                     <p>Emineo, immineo, promineo, attineo, pertineo, arceo, egeo, indigeo, pateo, timeo, ſuboleo, redoleo, oboleo, deli<g ref="char:EOLhyphen"/>teo, displiceo, <hi>ui:</hi> Turgeo, urgeo, algeo, fulgeo, <hi>ſi:</hi> Lu<g ref="char:EOLhyphen"/>ceo, frigeo, <hi>xi:</hi> Pendeo, pependi; Strideo, <hi>di;</hi> Con<g ref="char:EOLhyphen"/>niveo, nivi <hi>and nixi;</hi> Langueo, <hi>gui;</hi> Liqueo, <hi>cui;</hi> paveo, <hi>vi;</hi> ferveo, <hi>bui</hi> and <hi>vi: and</hi> Neuters <hi>which make the Praeter</hi> ui, <hi>want the Supines: Except</hi>
+                     </p>
+                     <p>Noceo, uleo, valeo, pareo, placeo: Lateo, doleo, ca<g ref="char:EOLhyphen"/>leo, ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eo, taceo.</p>
+                     <p>Audeo, auſus ſum,; gaudeo, gaviſus ſum; ſoleo, ſolitus ſum; moereo, moeſtus ſum.</p>
+                     <p>Reor, ratus ſum; Tueor, tuitus ſum; miſercor, miſertus ſum; fateor, faſſus ſum; <hi>its Compounds,</hi> fiteor, feſſus.</p>
+                     <pb n="31" facs="tcp:95085:21"/>
+                     <p>Libet, licet, pudet, piget, uit <hi>and</hi> itum eſt: Miſeret, miſertum eſt: Pertaedet, taeduit, taeſum eſt.</p>
+                     <p>Arceo, <hi>compounded turns</hi> a <hi>into</hi> e, <hi>as</hi> exerceo, coer<g ref="char:EOLhyphen"/>ceo, cui, citum. Maneo, egeo, lateo, teneo, habeo, ta<g ref="char:EOLhyphen"/>ceo, fateor, <hi>compounded turn the firſt Vowel into</hi> i, <hi>as alſo</hi> placeo <hi>in</hi> displiceo. <hi>Except</hi> Poſthabeo, permaneo.</p>
+                     <p>Sedeo <hi>compounded turns</hi> e <hi>into</hi> i, <hi>in the Praeſent, but not the Praeter Tenſe: Except</hi> Superſedeo.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The third Conjugation.</head>
+                  <p>Verb of the third Conjugation make the ſecond Perſon Praeſ. <hi>is,</hi> the firſt Perſon Praet. <hi>i,</hi> the Infini<g ref="char:EOLhyphen"/>tive <hi>ĕre</hi> with <hi>e</hi> ſhort: the Supines as hereafter. <hi>Lego, gis, gi, gĕre, ctum, ctu.</hi>
+                  </p>
+                  <div type="subsection">
+                     <head>Indicative Mood.</head>
+                     <p>Lego.</p>
+                     <p>
+                        <hi>Praeſ. S.</hi> o, is, it. <hi>Pl.</hi> ĭmus, ĭtis, unt. <hi>Imperf.</hi> cham, &amp;c. <hi>Praet.</hi> i, iſti, it, &amp;c.</p>
+                     <p>
+                        <hi>Plup. S.</hi> ĕram, ras, &amp;c. <hi>Fut.</hi> am, es, et. <hi>Pl.</hi> emus, etis, ent.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Imperative.</head>
+                     <p>
+                        <hi>S.</hi> e <hi>or</hi> ĭto. at <hi>or</hi> ĭto. <hi>Pl.</hi> amus, ĭte <hi>or</hi> itote, ant <hi>or</hi> unto.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Potential Mood.</head>
+                     <p>
+                        <hi>Praeſ. S.</hi> am, as, at, &amp;c. <hi>Imperf.</hi> ĕ. em, &amp;c. <hi>Praet.</hi> ĕrim, &amp;c. <hi>Plup.</hi> iſſem, &amp;c. <hi>Pur.</hi> ero, &amp;c.</p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="32" facs="tcp:95085:22"/>
+                     <head>Infinitive.</head>
+                     <p>Praeſ. and Imp. <hi>ĕre.</hi> Praet. and Plup. <hi>iſſe.</hi> Fut. <hi>ctu<g ref="char:EOLhyphen"/>rum eſſe.</hi> Gerunds, <hi>endi, endo, endum.</hi> Supines, <hi>ectum, tu.</hi>
+                     </p>
+                     <p>
+                        <hi>Volo, nolo, malo, edo, fero,</hi> are irregular in certain Tenſes; as,</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Indicative.</head>
+                     <p>
+                        <hi>Praeſ.</hi> Volo, vis, vult. <hi>Pl.</hi> volumus, vultis, volunt. Nolo, non vis, non vuit. <hi>Pl.</hi> nolumus, non vultis, nolunt. <hi>So</hi> Malo, mavis, mavult. <hi>Pl.</hi> malu<g ref="char:EOLhyphen"/>mus, mavultis, malunt. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>do, edis <hi>or</hi> es, edit <hi>or</hi> eſt. <hi>Pl.</hi> edimus, editis <hi>or</hi> eſtis, edunt. Fero, fers, fert. <hi>Pl.</hi> ferimus, fertis, ferunt.</p>
+                     <p>
+                        <hi>They make the Praeter,</hi> Volui, nolui, malui, edi; <hi>and</hi> tuli, <hi>whoſe Supines are</hi> latum, tu.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Imperative.</head>
+                     <p>Volo, malo <hi>want the Imperative. S.</hi> Noli <hi>or</hi> lito, no<g ref="char:EOLhyphen"/>lito. <hi>Pl.</hi> nolimus, lite <hi>or</hi> litote, lint <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>de, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ito, <hi>or</hi> es, eſto: eſto: <hi>Pl.</hi> edamus, edite, editote <hi>or</hi> eſte, eſtote, edant, edunto. Ter. ferto,: ſerat, ſerto. <hi>Pl.</hi> fe<g ref="char:EOLhyphen"/>ramus, ferte <hi>or</hi> tote, ferant, ferunto. Dico, duco, facio, <hi>have Imperative,</hi> dic, duc, ſac.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Potential.</head>
+                     <p>
+                        <hi>Praeſ.</hi> Velim, nolim, malim. <hi>Imperf.</hi> Vollem, nollem,
+<pb n="33" facs="tcp:95085:22"/> mallem, ferrem, ederem <hi>or</hi> eſſem. <hi>Infinitive,</hi> Volle, nolle, malle, edere <hi>or</hi> eſſe.</p>
+                     <p>
+                        <hi>Verbs of the third Conjugation turn</hi> o <hi>into</hi> i <hi>and</hi> itum: <hi>Except theſe;</hi> Scribo, nubo, pſi, ptum; <hi>alſo</hi> nupta ſum. <hi>The Compounds of the old Verb,</hi> Cum<g ref="char:EOLhyphen"/>bo, cubui, cubitum.</p>
+                     <p>Dico, duco, xi, ctum Ico, ici, ictum. Vinco, vici, victum. Parco, peperci, <hi>and</hi> parci, percitum <hi>and</hi> par<g ref="char:EOLhyphen"/>ſum. Creſco, quieſco, ſueſco, evi, etum. Sciſco, ivi, itum. Noſco, ignoſco, ovi, otum. Agnoſco, cognoſco, ovi, itum. Paſco, pavi, paſtum. Compeſco, dispeſco, poſcui, peſcitum.</p>
+                     <p>Mando, ſcando, cudo, prehendo, accendo, incendo, offendo, defendo, <hi>and</hi> edo, <hi>with its Compounds</hi> di, ſum. Comedo; eſum <hi>and</hi> eſtum. Rado, rodo, lado, lu<g ref="char:EOLhyphen"/>do, claudo, plaudo, divido, trudo, <hi>and</hi> vado, <hi>Comp.</hi> ſi, ſum. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>indo, ſcindo, idi, iſſum. Fundo, udi, uſum. Cedo, ceſſi, ceſſum. Tundo, tutudi, tunſum <hi>and</hi> tu<g ref="char:EOLhyphen"/>ſian. Pando, di, panſum <hi>and</hi> paſſum. Pedo, pepedi, peditum. Pendo, pependi, penſum. Tendo, tetendi, ten<g ref="char:EOLhyphen"/>ſum <hi>and</hi> tentum. Cado, cecidi caſum. Cado, caec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>di, caeſum, <hi>its Compounds</hi> ciſum. <hi>The Compounds of</hi> Do, didi, ditum. Abſcondo, di <hi>and</hi> didi, ſum <hi>and</hi> ditum.</p>
+                     <p>Rego, tego, plango, cingo, ſugo, ungo, tingo, lingo, pollingo, ſtingo, extinguo, diſtinguo, ungo, mungo, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ungo, compungo, dispungo, <hi>and Compounds of</hi> fiigo, <hi>and Verbs in</hi> tio, <hi>turn the laſt Syllable into</hi> xi, ctum. Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>go, pergo, rexi, rectum. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ingo, pingo, ſtringo, inxi, ictum. Lego, eligo, legi, lectum. Intelligo, diligo, negligo, lexi, lectum. Ago, egi, actum. Cogo, coegi, coactum. Frango, fregi, fractum. Spargo, tergo, mer<g ref="char:EOLhyphen"/>go, ſi, ſum Tango, tetigi, tactum. Figo, frigo, xi,
+<pb n="34" facs="tcp:95085:23"/> xum; <hi>alſo</hi> frictum. Pungo, repungo, pupugi <hi>and</hi> punxi, punctum. Pango <hi>of the old Verb</hi> pago, pe<g ref="char:EOLhyphen"/>pigi, pactum Pango <hi>to joyn,</hi> panxi, pactum.</p>
+                     <p>Colo, occulo, conſulo, lui, ultum. Molo, alo, lui, litum: <hi>alſo</hi> altum. Excello, praecello, lui, celſum. Percello, culi, culſum. Sallo, li. ſalſum. Fallo, fefelli, falſum. Pello, pepuli, pulſum. Tollo, ſuſtuli, ſubla<g ref="char:EOLhyphen"/>tum. Extollo, extuli, elatum. Vello, velli <hi>and</hi> vulſi, vulſum.</p>
+                     <p>Gemo, fremo, vomo, ui, itum. Emo, emi, emtum. Demo, demi, demtum. Premo, preſſi, preſſum. Su<g ref="char:EOLhyphen"/>mo, como, promo, mſi, mtum. Contemno, contemſi, temtum. Lino, levi, litum, Sterno, ſtravi, ſtratum. Sino, ſivi, ſitum. Gigno, genui, genitum. Pono, po<g ref="char:EOLhyphen"/>ſui poſitum. Cano, cecini, cantum. Occino, ſuccino, cinui, centum. Sperno, ſtrevi, ſpretum. <hi>The Com<g ref="char:EOLhyphen"/>pounds of</hi> Cerno, crevi, cretum.</p>
+                     <p>Carpo, ſerpo, repo, ſcalpo, ſculpo, pſi, ptum. Rum<g ref="char:EOLhyphen"/>po, rupi, ruptum. Strepo, ſtrepui, ſtrepitum.</p>
+                     <p>Coquo, cuxi, coctum. Linquo, liqui, lictum</p>
+                     <p>Gero, geſſi, geſtum. Fero, tuli, latum: Affero, at<g ref="char:EOLhyphen"/>tuli, allatum. Verro, verri. verſum. <g ref="char:V">Ʋ</g>ro, uſſi, uſtum. Tero, trivi, tritum. Sero <hi>to plant,</hi> ſevi, ſatum. Conſe<g ref="char:EOLhyphen"/>ro, inſero: ſevi, ſitum. Inſero <hi>to inſert,</hi> aſſero, diſſero, deſero, exero, ſerui, ſertum. Quaro, ſivi, ſitum. Cur<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, decurro, excurro, procurro, praecurro, cucurri, cur<g ref="char:EOLhyphen"/>ſum: <hi>other Compounds of</hi> curro, curri, curſum.</p>
+                     <p>Arceſſo, laceſſo, faceſſo, capeſſo, ſivi, ſitum: <hi>alſo</hi> faceſſi, capeſſi. Pinſo, ſui, pinſitum, pinſum <hi>and</hi> pi<g ref="char:EOLhyphen"/>ſtum Depſo, ſui, ſitum. Viſo, ſi, ſum.</p>
+                     <p>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cto, pecto, plecto, exi, <hi>and</hi> exui, exum. Flecto, exi, exum. Verto, ti, ſum. Peto, tivi <hi>and</hi> tii, titum. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, miſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, mſſum. Meto, meſſui, meſſum. Siſto, sti<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, ſtatum.</p>
+                     <pb n="35" facs="tcp:95085:23"/>
+                     <p>Vivo, vixi, victum. Solvo, volvo, vi, olutum. Texo, texui, textum.</p>
+                     <p>Facio, jacio, eci, actum. Aspicio, allicio, exi, ectum. Elicio, licui, licitum. Fodio, di, foſſum. Fugi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, gi, gitum. Cupio, cupivi, cupitum. Capio, cepi, ca<g ref="char:EOLhyphen"/>ptum. Pario, peperi, partum. Rapio, rapui, raptum. Quatio, quaſſum, <hi>its Compounds,</hi> cuſſi, cuſſum. Meio, minxi, mictum.</p>
+                     <p>
+                        <hi>Verbs in</hi> uo, ui, utum Luo, ruo, ui, uitum, <hi>the Compounds of</hi> ruo, rutum. Fluo, ui, uxum. Struo, uxi, uctum.</p>
+                     <p>Labor, lapſus. Adipiſcor, adeptus. Expergiſcor, experrectus <g ref="char:V">Ʋ</g>lciſcor, ultus. Comminiſcor, commentus. Proficiſcor, profectus. Nitor, niſus <hi>and</hi> nixus. Fungor, functus. Nanciſcor, nactus. Amplector, complector, plexus. Paciſcor, pactus. Patior, paſſus. <g ref="char:V">Ʋ</g>tor, uſus. Iraſcor, iratus Orior, ortus. Morior, mortuus. Naſ<g ref="char:EOLhyphen"/>cor, natus. Obliviſcor, oblitus. Fruor, fruitus. Lo<g ref="char:EOLhyphen"/>quor, locutus. Queror, questus. Tuor, tuitus. Sequor, ſecutus. Revertor, reverſus. Fido, confido, fiſus. Gra<g ref="char:EOLhyphen"/>dior, greſſus.</p>
+                     <p>Lambo, ſcabo, bi. Strido rudo, di. Prodigo, dego, ſatago, egi. Ango, ningo, clango, xi. Compeſco, diſ<g ref="char:EOLhyphen"/>peſco, tremo, ſterto, volo, nolo, malo, renuo, annuo, con<g ref="char:EOLhyphen"/>gruo, reſpuo, metuo, antecello, ui. Diſco, didici. Poſ<g ref="char:EOLhyphen"/>co, popoſci. Sapio, ui <hi>and</hi> ivi. Inceſſo, ſi. Pſallo, re<g ref="char:EOLhyphen"/>fello, li, <hi>want the Supines.</hi>
+                     </p>
+                     <p>Attollo, vergo, ſido, furo, gliſco, veſcor, liquor, ringor, fatiſco, dĭvertor, praevertor, reminiſcor, hiſco, ambigo, cerno, labaſco, <hi>want the Praeter. Inceptives or Inchoatives in</hi> Sco, <hi>coming of Nouns want the Praeter, but thoſe which come of Verbs borrow the Praeter of their Primitive.</hi>
+                     </p>
+                     <pb n="36" facs="tcp:95085:24"/>
+                     <p>Fallo, carpo, parco, cando, gradior, ſatiſcor, ſcando <hi>and</hi> pario <hi>compounded, turn</hi> a <hi>into</hi> 
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>So of</hi> patior, per<g ref="char:EOLhyphen"/>petior: <hi>So the Compounds of</hi> paſco, <hi>making Praet.</hi> peſcui.</p>
+                     <p>Cano, cado<g ref="char:punc">▪</g> caedo, ſtatuo, rapio, tango, quaro, laedo, ſapio, <hi>compounded turn the firſt Vowel into</hi> i.</p>
+                     <p>Ago, emo, frango, lego, facio, capio, premo, tango, rego, ſacio, <hi>with the old Verbs</hi> Specio, Lucio, <hi>com<g ref="char:EOLhyphen"/>pounded turn the firſt Vowel into</hi> i <hi>in the Preſent only: So of</hi> pango, impingo, compingo, egi, actum.</p>
+                     <p>
+                        <hi>Theſe are excepted,</hi> Circumago, perago, ſatago, perlego, tranſlego, relego, praelego, coemo, depango, cir<g ref="char:EOLhyphen"/>cumpango, oppango, repangu.</p>
+                     <p>Claudo, quatio, lavo,, <hi>in the Compounds are turn<g ref="char:EOLhyphen"/>ed into</hi> cludo, cutio, tuo, <hi>and</hi> plaudo <hi>into</hi> plodo.</p>
+                     <p>
+                        <hi>The Syllables doubled in the Praeter, are not doub<g ref="char:EOLhyphen"/>led in the Supines, neither in the Compounds, ex<g ref="char:EOLhyphen"/>cept of</hi> Do, diſco, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o, paſco; <hi>and theſe of</hi> curro, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>raecurro <hi>and</hi> excurro; <hi>alſo in</hi> repungo.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The fourth Conjugation.</head>
+                  <p>Verbs of the f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urth Conjugation end in <hi>io,</hi> and make the ſecond Perſon Praeſ. <hi>u,</hi> the firſt Perſ. Praet. <hi>ivi,</hi> the Infinitive <hi>ire</hi> with <hi>i</hi> long, the Supines, <hi>itum, <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>;</hi> as <hi>Audio, is, ivi, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re, itum.</hi>
+                  </p>
+                  <div type="subsection">
+                     <head>Indicative Mood.</head>
+                     <p>Audio.</p>
+                     <p>
+                        <hi>Praeſ. S.</hi> i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, is, it <hi>Pl.</hi> ïmus, ïtis, iunt. <hi>Imperf.</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ham, &amp;c. <hi>Praet.</hi> ivi, iviſci, &amp;c. <hi>Plup.</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, &amp;c. <hi>Fut.</hi> iam, ies, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t, &amp;c.</p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="37" facs="tcp:95085:24"/>
+                     <head>Imperative.</head>
+                     <p>
+                        <hi>S.</hi> i <hi>or</hi> ito. iat <hi>or</hi> ito. <hi>Pl.</hi> iamus. ite <hi>or</hi> itote. iant, iunto.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Potential.</head>
+                     <p>
+                        <hi>Praeſ.</hi> iam, as, &amp;c. <hi>Imperf.</hi> irem, &amp;c. <hi>Praet.</hi> iverim. <hi>Plup</hi> iviſſem. <hi>Fut.</hi> ivero.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Infinitive.</head>
+                     <p>
+                        <hi>Praeſ. and Imperf.</hi> ïre. <hi>Praet. and Plup.</hi> iviſſe. <hi>Fut.</hi> iturum eſſe. <hi>Gerunds,</hi> iendi, do, dum. <hi>Su<g ref="char:EOLhyphen"/>pines,</hi> itum, itu.</p>
+                     <p>Eo <hi>and</hi> queo <hi>make in the Praeſ.</hi> cunt, queunt. <hi>In the Imperf.</hi> tham, quibam. <hi>In the Fut.</hi> ibo, quibo. <hi>In the Gerunds,</hi> cundi, queundi.</p>
+                     <p>Vincio, ſancio, xi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m: <hi>alſo</hi> ſancivi, citum. Far<g ref="char:EOLhyphen"/>cio, ſarcio, ſulcio, ſi, tum. Raucio, ſenſio, ſi, ſum. Sepio, ſepſi, ſeptum. Salio, lii <hi>and</hi> lui, ſaltum. Sin<g ref="char:EOLhyphen"/>gultio, tivi, gultum. Sepelio, livi, pultum. Haurio, ſi, hauſtum. Amicio, micui <hi>and</hi> mixi, mictum. Ap<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>io, operio, perui: comperio, r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>perto, peri. pertum. Venio, ni, ventum.</p>
+                     <p>Profilio, abſilio, geſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>io, <hi>want the Supines.</hi>
+                     </p>
+                     <p>Ferio, <hi>and</hi> Meditativ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>want the Praeter, except</hi> parturio <hi>and</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſurio.</p>
+                     <p>Punio, nii <hi>and</hi> nitus ſum. Experior, opperior, per<g ref="char:EOLhyphen"/>tus. Aſſentior, ſenſus. Ordior, orſus. Vio, factus. Metior, menſus</p>
+                     <pb n="38" facs="tcp:95085:25"/>
+                     <p>Fio <hi>in the Imperative Sing. ſecond Perſon hath</hi> fito <hi>only: In the Infinitive</hi> fieri: <hi>In the Potential</hi> fierem.</p>
+                     <p>
+                        <hi>Some Verbs have a double Praeter, as</hi> Nubo, nupſi <hi>and</hi> nupta ſum. Juro, titubo, coeno, avi <hi>and</hi> atus ſum. Poto, avi <hi>and</hi> potus ſum. Prandeo, di <hi>and</hi> pranſus. Sueſco, evi <hi>and</hi> etus Mereor, rui <hi>and</hi> me<g ref="char:EOLhyphen"/>ritus Careo, rui <hi>and</hi> caritus <hi>or</hi> caſſus. Veneo, nivi <hi>and</hi> venditus, <hi>and for a Paſſive Supine</hi> venum.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The Verb Subſtantive <hi>Sum,</hi> with its Compounds.</head>
+                  <p>Sum, es, fui, eſſe.</p>
+                  <div type="subsection">
+                     <head>Indicative Mood.</head>
+                     <p>
+                        <hi>Praeſ. S.</hi> Sum, es, eſt. <hi>Pl.</hi> ſumus, eſtis, ſunt. Poſ<g ref="char:EOLhyphen"/>ſum, potes, poteſt, poſſumus, poteſtis, poſſunt. Proſum, dos, deſt, proſumus, prodeſtis, pro<g ref="char:EOLhyphen"/>ſunt.</p>
+                     <p>
+                        <hi>Imper. S.</hi> Eram, ras, rat. <hi>Pl.</hi> cramus, ratis, rant: <hi>So</hi> Poteram, Proderam.</p>
+                     <p>
+                        <hi>Perf. S.</hi> Fui, iſti, it. <hi>Pl.</hi> ſuimus, iſtis, erunt <hi>or</hi> êre: <hi>So</hi> Potui, Proſui.</p>
+                     <p>
+                        <hi>Plup. S.</hi> Fucram, ras, &amp;c. <hi>So</hi> Potueram, Profueram.</p>
+                     <p>
+                        <hi>Fut. S.</hi> Ero, ris, rit, &amp;c. <hi>So</hi> Potero, Prodero.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Imperative.</head>
+                     <p>
+                        <hi>S.</hi> Sis, es, eſto: ſit, eſto. <hi>Pl.</hi> ſimus: ſitis, eſte, eſtate: ſint, ſunto. Poſſum <hi>wants the Im<g ref="char:EOLhyphen"/>perative.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <pb n="39" facs="tcp:95085:25"/>
+                     <head>Potential.</head>
+                     <p>
+                        <hi>Praeſ. S.</hi> Sim, ſis, &amp;c. <hi>So</hi> Poſſim. <hi>Imperf.</hi> Eſſem, ſes, &amp;c. <hi>So</hi> Poſſem, Prodeſſem <hi>and</hi> Forem.</p>
+                     <p>
+                        <hi>Praeſ. S.</hi> Fuerim, &amp;c. <hi>So</hi> Potuerim, Profuerim. <hi>Plup.</hi> Fuiſſem, &amp;c. <hi>So</hi> Potuiſſem, Profuiſſem.</p>
+                     <p>
+                        <hi>Fut. S.</hi> Fuero, &amp;c. <hi>So</hi> Potuero, Profuero.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Infinitive.</head>
+                     <p>Praeſ. and Imp. <hi>Eſſe:</hi> So <hi>Poſſe, Prodeſſe.</hi> Praet. and Plup. <hi>Fuiſſe:</hi> So <hi>Potuiſſe, Profuiſſe.</hi>
+                     </p>
+                     <p>Fut. <hi>Fore</hi> or <hi>futurum eſſe.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>A Verb Paſſive in all four Conju<g ref="char:EOLhyphen"/>gations.</head>
+                  <div type="subsection">
+                     <head>Indicative.</head>
+                     <p>
+                        <hi>Praeſ. S. 1.</hi> or, aris <hi>or</hi> are, atur. <hi>Pl</hi> amur, amini, antur.</p>
+                     <p n="2">
+                        <hi>2.</hi> cor, ēris <hi>or</hi> ēre, etur. <hi>Pl.</hi> emur, emini, entur.</p>
+                     <p n="3">
+                        <hi>3.</hi> or, ĕris <hi>or</hi> ĕre, itur. <hi>Pl.</hi> imur, imini, untur.</p>
+                     <p n="4">
+                        <hi>4.</hi> ior, iris <hi>or</hi> ire, itur <hi>Pl.</hi> imur, imini, untur.</p>
+                     <p>
+                        <hi>Imperf. 1.</hi> abar: <hi>2.</hi> ĕbar: <hi>3.</hi> ĕbar: <hi>4.</hi> iebar: baris <hi>or</hi> bare, batur, &amp;c.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <pb n="40" facs="tcp:95085:26"/>
+                  <head>The Preterperfect &amp; Preterpluperfect Tenſe Paſsive are made of the Participle of the Preter Tenſe, and the Verb <hi>Sum;</hi> as,</head>
+                  <p>
+                     <hi>Praet. S.</hi> tus, ſum vel ſui, es vel fuiſti, eſt vel fuit. <hi>Pl.</hi> ti ſumus vel ſuimus, eſtis vel ſuiſtis, ſunt fuerunt vel fuere.</p>
+                  <p>
+                     <hi>Plup. S.</hi> tus cram vel fueram, &amp;c. <hi>Pl.</hi> ti cramus vel fueramus, &amp;c.</p>
+                  <p>
+                     <hi>Fut. S. 1.</hi> abor, aberis <hi>or</hi> abere, abitur. <hi>Pl</hi> abi<g ref="char:EOLhyphen"/>mur, abimini, abuntur</p>
+                  <p n="2">
+                     <hi>2.</hi> ebor, eberis <hi>or</hi> chere, &amp;c.</p>
+                  <p n="3">
+                     <hi>3.</hi> ar, eris <hi>or</hi> ere, etur. <hi>Pl.</hi> emur, emini, entur.</p>
+                  <p n="4">
+                     <hi>4.</hi> iar, icris <hi>or</hi> iere, &amp;c</p>
+                  <div type="subsection">
+                     <head>Imperative.</head>
+                     <p>
+                        <hi>S 1.</hi> are <hi>or</hi> ator: etur <hi>or</hi> ator. <hi>Pl.</hi> emur, amini, entur <hi>or</hi> antor.</p>
+                     <p n="2">
+                        <hi>2.</hi> ēre <hi>or</hi> etor: eatur <hi>or</hi> etor. <hi>Pl.</hi> eamur, emini, eantur <hi>or</hi> entor.</p>
+                     <p n="3">
+                        <hi>3.</hi> ĕre <hi>or</hi> itor, atur <hi>or</hi> ĭtur. <hi>Pl.</hi> amur, imi<g ref="char:EOLhyphen"/>ni, antur <hi>or</hi> untor.</p>
+                     <p n="4">
+                        <hi>4.</hi> īre <hi>or</hi> itor, iator <hi>or</hi> itor. <hi>Pl.</hi> iamur, imi<g ref="char:EOLhyphen"/>ni, iantur <hi>or</hi> iuntor.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Potential.</head>
+                     <p>
+                        <hi>Praeſ. 1.</hi> er, eris <hi>or</hi> ere, etur. <hi>Pl.</hi> emur, emini, entur.</p>
+                     <p n="2">
+                        <pb n="41" facs="tcp:95085:26"/>
+                        <hi>2.</hi> ear, aris <hi>or</hi> are, eatur. <hi>Pl.</hi> eamur, ea<g ref="char:EOLhyphen"/>mini, eantur.</p>
+                     <p n="3">
+                        <hi>3.</hi> ar, aris <hi>or</hi> are, atur. <hi>Pl.</hi> amur, amini, antur.</p>
+                     <p n="4">
+                        <hi>4.</hi> iar, aris <hi>or</hi> are, atur. <hi>Pl.</hi> iamur, ami<g ref="char:EOLhyphen"/>ni, antur.</p>
+                     <p>
+                        <hi>Imperf. 1.</hi> arer, reris <hi>or</hi> rere, &amp;c. <hi>2.</hi> ĕrer. <hi>3.</hi> ĕrer. <hi>4.</hi> irer, &amp;c.</p>
+                     <p>
+                        <hi>Praet.</hi> tus ſim vel fuerim, &amp;c. <hi>Plup.</hi> tus eſſem vel fuiſſem, &amp;c.</p>
+                     <p>
+                        <hi>Fut.</hi> tus ero vel fuero, &amp;c.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Infinitive.</head>
+                     <p>Praeſ. and Imp. 1. <hi>ari.</hi> 2. <hi>eri.</hi> 3. <hi>i.</hi> 4. <hi>iri.</hi> Praet. and Plup. <hi>tum eſſe vel fuiſſe.</hi> Fut. <hi>tum iri, vel ndum eſſe.</hi>
+                     </p>
+                     <p>
+                        <hi>Feror</hi> hath the Praeter <hi>latus ſum vel fui.</hi>
+                     </p>
+                     <p>When the Active wants the Supines, the Paſſive wants the Praeter.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>Verbs Defective.</head>
+                  <p>Aio. <hi>Praeſ.</hi> aio, ais, ait, aiunt. <hi>Imperf.</hi> aicham, bas, &amp;c, <hi>Imperative Mood</hi> ai. <hi>Potential,</hi> aias, at, atis, ant, <hi>Participle,</hi> aiens.</p>
+                  <p>Apage, apagete, cedo <hi>are only Imperatives.</hi>
+                  </p>
+                  <p>Inquam. <hi>Praeſ.</hi> quam, quis, quit, quimus, quiunt. <hi>Imperf.</hi> quicbat, bant. <hi>Praet.</hi> inquiſti. <hi>Fut.</hi> inquies, et. <hi>Imperative,</hi> inque, quito.</p>
+                  <p>Ave, ſalve, vale. <hi>Indic. Fut.</hi> ebis. <hi>Imperative,</hi> e, eto, ete, etote. <hi>Infinitive,</hi> ere.</p>
+                  <pb n="42" facs="tcp:95085:27"/>
+                  <p>Forem. <hi>Potential,</hi> rem, res, ret, rent. <hi>Infin.</hi> fore.</p>
+                  <p>Quaeſo. <hi>Indic. Praeſ.</hi> quaeſo, quaeſumus. <hi>Indic.</hi> O<g ref="char:EOLhyphen"/>vat. <hi>Partic.</hi> ovans. <hi>Potential Praet. and Fut.</hi> Faxim <hi>or</hi> xo, auſim, is, it, int.</p>
+                  <p>Odi, coepi, memini, <hi>have only the Tenſes in</hi> ram, rim, ro, ſem, ſe: <hi>only Imperative</hi> memento, tote. Odi, coepi, memini, novi, <hi>are uſed for the Preſent Tenſe.</hi>
+                  </p>
+                  <p>
+                     <hi>Theſe firſt Perſons,</hi> Dor, for, der, fer, <hi>are not in uſe.</hi>
+                  </p>
+                  <p>Infit <hi>is uſed for</hi> coepit. Defit <hi>for</hi> dceſt.</p>
+               </div>
+               <div type="section">
+                  <head>Imperſonals.</head>
+                  <p>
+                     <hi>It</hi> or <hi>there</hi> before a Verb having no Nominative Caſe to agree with, are Signs of a Verb Imperſonal, as <hi>it becometh.</hi>
+                  </p>
+                  <p>A Verb Imperſonal is formed only in the third Perſon Singular; as <hi>Decet, decebat, decuit, &amp;c.</hi> So <hi>Miſeret, piget, poenitet, taedet, oportet, pudet, libet, lu<g ref="char:EOLhyphen"/>bet, licet, liquet.</hi>
+                  </p>
+                  <p>
+                     <hi>Fulgurat, fulminat, grandinat, tonat, pluit, gelat, ningit, luceſſit, vesperaſcit, &amp;c.</hi> are uſed as Imper<g ref="char:EOLhyphen"/>ſonals, and are called <hi>verba exemptae ſignificationis.</hi>
+                  </p>
+                  <p>An Imperſonal Paſſive is uſed for any Perſon of the Verb Active, with an Oblique Caſe of the Per<g ref="char:EOLhyphen"/>ſon after it, as <hi>Legitur à me</hi> for <hi>lego: à te</hi> for <hi>legis; ab ilio</hi> for <hi>legit.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Species or Kinds of Verbs.</head>
+                  <p>Verbs <hi>derìvative</hi> are 1. Inchoatives or Inceptives
+<pb n="43" facs="tcp:95085:27"/> in <hi>ſco.</hi> 2. Frequentatives in <hi>to, xo, ſo, co, tor;</hi> as <hi>dictito, pulſo, vexo, veliico, ſector.</hi> 3. Meditatives or Deſideratives in <hi>urio,</hi> as <hi>lecturio.</hi> 4. Diminutives in <hi>illo, iſſo;</hi> as <hi>Sorbillo, pitiſſo.</hi> 5. Imitatives in <hi>iſſo, or;</hi> as <hi>Patriſſo, Graecor.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Participles.</head>
+                  <p>A <hi>Participle</hi> is a Word made of a Verb, and de<g ref="char:EOLhyphen"/>clined like a Noun.</p>
+                  <p>There be four Participles, two <hi>Active,</hi> and two <hi>Paſſive.</hi>
+                  </p>
+                  <div type="subsection">
+                     <head>Active Participles.</head>
+                     <p n="1">1. A Participle of the <hi>Praeſ.</hi> Tenſe Active, hath its Engliſh in <hi>ing,</hi> as <hi>loving,</hi> and in Latin it ends in <hi>ans</hi> or <hi>ens,</hi> as <hi>amans, docens,</hi> declined like Adjectives of one ending.</p>
+                     <p>
+                        <hi>Iens</hi> of <hi>eo</hi> hath Gen. <hi>cuntis:</hi> So its Compounds except <hi>ambientis.</hi>
+                     </p>
+                     <p>The Engliſh of the Participle in <hi>ing,</hi> with <hi>a</hi> or <hi>the</hi> before it, is a Noun Subſtantive; with a <hi>Praepoſi<g ref="char:EOLhyphen"/>tion</hi> before it, commonly a <hi>Gerund.</hi>
+                     </p>
+                     <p n="2">2. A Participle of the <hi>Fut. Active,</hi> hath the Engliſh Sign <hi>ready or about to,</hi> as <hi>ready or about to love;</hi> and in Latin ends in <hi>rus,</hi> as <hi>amaturus, docturus,</hi> Declined like Adjectives of three endings.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Paſsive Participles.</head>
+                     <p n="1">1. A Participle of the <hi>Praeſ.</hi> and <hi>Praet.</hi> Paſſive
+<pb n="44" facs="tcp:95085:28"/> hath its Engliſh in <hi>d, t</hi> or <hi>n,</hi> with the Word <hi>being</hi> expreſſed or underſtood before it, as <hi>being loved, taught, ſlain;</hi> and in Latine it ends in <hi>tus, ſus</hi> or <hi>xus;</hi> as <hi>amatus, viſus, nexus:</hi> Declined as Adjectives of three endings.</p>
+                     <p n="2">2. A Participle of the <hi>Fut. Paſſive</hi> hath its En<g ref="char:EOLhyphen"/>gliſh in <hi>d, t</hi> or <hi>n,</hi> with the Sign <hi>to be</hi> before it, as <hi>to be loved,</hi> and in Latin it ends in <hi>dus,</hi> as <hi>amandus:</hi> Declined like Adjectives of three endings.</p>
+                     <p>The Engliſh of a Participle Fut. Paſſive after a Noun or Verb Adjective is the <hi>Infinitive Mood</hi> or <hi>later Supine.</hi>
+                     </p>
+                     <p>Verbs <hi>Neuter</hi> have ordinarily only the Particles of the <hi>Praeſ.</hi> and <hi>Fut.</hi> in <hi>rus. Deponents</hi> have uſually three Participles, <hi>Praeſ. Praet.</hi> and <hi>Future</hi> in <hi>rus.</hi> Where the Praeter hath the Engliſh <hi>having,</hi> as <hi>ſecu<g ref="char:EOLhyphen"/>tus, having followed.</hi>
+                     </p>
+                     <p>The Praeſ. Participle is made of the Imperf. by turning <hi>bam</hi> into <hi>us:</hi> The Participle of the Future Active is made of the Supine by turning <hi>um</hi> into <hi>urus.</hi> The Praet. Participle is made of the ſame by turning <hi>um</hi> into <hi>us</hi> The Participle in <hi>dus</hi> is made of the Praeſent Participle by turning <hi>s</hi> into <hi>dus.</hi>
+                     </p>
+                     <p>
+                        <hi>Mortuus, moriturus, oriturus, naſciturus, pariturus, ſonaturus, arguiturus, cruiturus,</hi> are irregular.</p>
+                     <p>A Participle compared, or uſed Subſtantively is turned into a Noun.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>Adverbs.</head>
+               <p>Ad <hi>Adverb</hi> is a Word undeclined, commonly joyned with Verbs to explain their ſignification. Adverbs are of many ſorts; as of Place, as <hi>Where,
+<pb n="45" facs="tcp:95085:28"/> here, there, &amp;c.</hi> Of Time, as <hi>now, hereafter, to day, long ago, &amp;c.</hi> Of Number, as <hi>often, ſeldom, once, twice, &amp;c.</hi> Of Order, as <hi>firſt, ſecondly, moreover, &amp;c.</hi> Of Asking, as <hi>why? &amp;c.</hi> Of Affirming or explain<g ref="char:EOLhyphen"/>ing, as <hi>yea, truly, to wit, &amp;c.</hi> Of Denying, as <hi>no, not, &amp;c</hi> Of Demonſtrating, as <hi>lo, behold, &amp;c.</hi> Of Exhorting or encouraging, as <hi>well done, go to, &amp;c.</hi> Of Wiſhing, as <hi>O that, &amp;c.</hi> Of Swearing, as <hi>in good ſooth, &amp;c.</hi> Of Doubting, as <hi>perhaps, &amp;c.</hi> Of Gathering or ſeparating, as <hi>together, aſunder:</hi> Of Excluding, as <hi>only:</hi> Of Chuſing, as <hi>rather, &amp;c.</hi> Of Diverſity, as <hi>otherwiſe, &amp;c.</hi> Of Likeneſs, as <hi>as, even as, &amp;c.</hi> Of Quantity, as <hi>much, little, &amp;c.</hi> Of Quality, as <hi>well, ill, &amp;c.</hi> Of Comparing, as <hi>as well as, better, &amp;c.</hi>
+               </p>
+               <p>And many more, eſpecially ending in <hi>ly,</hi> made of Nouns.</p>
+            </div>
+            <div type="part">
+               <head>Conjunctions.</head>
+               <p>A <hi>Conjunction</hi> is a Word undeclined, joyning Words and Sentences together. There be divers ſorts of Conjunctions: as</p>
+               <p>Copulatives, <hi>and, alſo, &amp;c.</hi> Disjunctives, <hi>either, or, nor, &amp;c.</hi> Conceſſives, <hi>although, albeit, &amp;c.</hi> Ad<g ref="char:EOLhyphen"/>verſatives, <hi>but, notwithſtanding, &amp;c.</hi> Cauſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls, <hi>for, becauſe, &amp;c.</hi> Conditionals, <hi>if, unleſ, &amp;c.</hi> Illatives, <hi>therefore, wherefore, &amp;c.</hi> Electives, <hi>rather, than, &amp;c.</hi> Exceptives, <hi>except, beſides, &amp;c.</hi> Dubitatives, <hi>whe<g ref="char:EOLhyphen"/>ther or no, &amp;c.</hi> Diminutives, <hi>at leaſt, &amp;c.</hi> Expletives, <hi>uſed</hi> only for greater Grace of Speech.</p>
+               <p>
+                  <hi>Ac, at, iſt, nam, quare, ſi, nec, quin, niſi, ſin, ſeu, ſed, verum,</hi> are <hi>Praepoſitives,</hi> uſed in the beginning of Sentences.</p>
+               <pb n="46" facs="tcp:95085:29"/>
+               <p>
+                  <hi>Enim, autem, quoque, vero, quidem,</hi> are <hi>Poſt<g ref="char:EOLhyphen"/>ſitives</hi> ſet after other Words.</p>
+               <p>
+                  <hi>Que, ne, ve</hi> are Encliticks ſet at the end of ano<g ref="char:EOLhyphen"/>ther Word.</p>
+            </div>
+            <div type="part">
+               <head>Prepoſitions.</head>
+               <p>A <hi>Prepoſition</hi> is a Word undeclined commonly ſet before other Words, either in <hi>Appoſition</hi> or <hi>Com<g ref="char:EOLhyphen"/>poſition.</hi>
+               </p>
+               <p>A <hi>Separable</hi> Prepoſition ſtands before a Word, and governs a Caſe commonly either <hi>Accuſative</hi> or <hi>Ablative,</hi> as <hi>to, unto, in, into, towards, againſt, be<g ref="char:EOLhyphen"/>fore, after, for, beſide, with, by, beyond, under, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Inſeparable</hi> Praepoſitions are only uſed in Compo<g ref="char:EOLhyphen"/>ſition, as <hi>am, di, dis, re, ſe, ve, con.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Interjections.</head>
+               <p>An <hi>Interjection</hi> is a Word undeclined, expreſſing ſome Affection or Paſſion of Mind; as Joy, <hi>Evax, io.</hi> Exclaiming, <hi>O.</hi> Flattering, <hi>eja.</hi> Wondring, <hi>pa<g ref="char:EOLhyphen"/>pae.</hi> Threatning, <hi>vae.</hi> Lamenting, <hi>hei, heu, eheu, ah.</hi> Fear, <hi>atat.</hi> Diſdain, <hi>hem, prob, hui, vah.</hi> Calling, <hi>heus, eho.</hi> Silence, <hi>au, ſt.</hi> Loathing, <hi>phy.</hi> Laughing, <hi>ha ha, he, &amp;c.</hi>
+               </p>
+               <p>Adjectives in the Neuter Gender are ſometimes uſed Adverbially.</p>
+               <p>Adverbs may be compared, which come of Ad<g ref="char:EOLhyphen"/>jectives which admit of Compariſon.</p>
+            </div>
+            <div type="part">
+               <pb n="47" facs="tcp:95085:29"/>
+               <head>Figures belonging to Words.</head>
+               <p>
+                  <hi>Protheſis,</hi> adds to the beginning, as <hi>Gnavus</hi> for <hi>navus.</hi>
+               </p>
+               <p>
+                  <hi>Epentheſis,</hi> adds in the middle, as <hi>Alituum</hi> for <hi>alitum.</hi>
+               </p>
+               <p>
+                  <hi>Paragoge,</hi> adds to the end, as <hi>Dicier</hi> for <hi>dici.</hi>
+               </p>
+               <p>
+                  <hi>Aphaereſis,</hi> takes from the beginning, as <hi>conia</hi> for <hi>ciconia.</hi>
+               </p>
+               <p>
+                  <hi>Syncope,</hi> takes from the middle, as <hi>Dixti</hi> for <hi>dixiſti.</hi>
+               </p>
+               <p>
+                  <hi>Apocope,</hi> takes from the end, as <hi>Dic</hi> for <hi>dice.</hi>
+               </p>
+               <p>
+                  <hi>Draereſis,</hi> divides one Syllable into two, as <hi>Au<g ref="char:EOLhyphen"/>laï</hi> for <hi>aulai</hi> or <hi>lae.</hi>
+               </p>
+               <p>
+                  <hi>Craſts</hi> or <hi>Synaereſis,</hi> joyns or contracts two Sylla<g ref="char:EOLhyphen"/>bles into one, as <hi>Theſci</hi> for <hi>Theſei: Ingení</hi> for <hi>ingenii.</hi>
+               </p>
+               <p>
+                  <hi>Metatheſis,</hi> is a miſplacing of Letters or Syllables, as <hi>pistris</hi> for <hi>priſtis.</hi>
+               </p>
+               <p>
+                  <hi>Antitheſis</hi> or <hi>Antiſtaechon,</hi> puts one Letter for another, as <hi>faciundum</hi> for <hi>faciendum.</hi>
+               </p>
+               <p>
+                  <hi>Enallage</hi> or <hi>Antimeria,</hi> puts one kind of Word, Gender, Number, Mood, or Tenſe for another.</p>
+               <p>
+                  <hi>Archaiſmus,</hi> is an old worn out way of ſpeaking.</p>
+               <p>
+                  <hi>Apoſtrophus,</hi> is a a Note, ſignifying the want of ſome Letter thus, <hi>Egon'</hi> for <hi>egone.</hi>
+               </p>
+               <p>
+                  <hi>Hyphen,</hi> notes two Words to be joyned as if it were one compounded Word, thus <hi>ante-malorum.</hi> We uſe the ſame Note in the end of a Line, when part of a Word ends the Line, and the other part begins the next Line.</p>
+               <div type="section">
+                  <head>Accents.</head>
+                  <p>There be three <hi>Accents</hi> belonging to Words;
+<pb n="48" facs="tcp:95085:30"/> 
+                     <hi>Acute, Grave</hi> and <hi>Circumflex,</hi> but theſe are ſeldom expreſſed in Latin.</p>
+                  <p>An <hi>Acute</hi> Accent is thus marked, <hi>dóminus:</hi> a <hi>Grave</hi> thus, <hi>doctè:</hi> a <hi>Circumflex</hi> thus, <hi>mòs.</hi>
+                  </p>
+                  <p>
+                     <hi>Monoſyllables</hi> ſhort, or long by Poſition, have an <hi>Acute</hi> Accent.</p>
+                  <p>In <hi>Diſſyllables</hi> the former hath an <hi>Acute,</hi> when the later is ſhort, and the former long by Poſition; or when both are ſhort.</p>
+                  <p>
+                     <hi>Polyſyllables</hi> having the laſt ſhort, have an <hi>Acute</hi> in the laſt but two, or <hi>antepenultima,</hi> as <hi>dóminus:</hi> if the two laſt be long, the <hi>penultima,</hi> or laſt but one hath an <hi>Acute,</hi> as <hi>Sacérdos.</hi>
+                  </p>
+                  <p>In <hi>Diſſyllables</hi> the later hath a <hi>Grave</hi> Accent; ſo have all Syllables which have neither <hi>Acute</hi> nor <hi>Circumflex.</hi>
+                  </p>
+                  <p>
+                     <hi>Monoſyllables</hi> long by Nature, have a <hi>Circumflex,</hi> The former in <hi>Diſſyllables</hi> hath a <hi>Circumflex,</hi> if it be long by Nature and the later ſhort: So hath the <hi>Penultima</hi> in <hi>Polyſyllables</hi> if it be long by Na<g ref="char:EOLhyphen"/>ture and the laſt ſhort.</p>
+                  <p>The Compounds of <hi>facio</hi> and <hi>ſio,</hi> keep the Accent of the ſimple Verb, as <hi>caleſácit, caleſít.</hi>
+                  </p>
+                  <p>The <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ncliticks, que, ne, ve,</hi> caſt the Accent on the forgoing Syllable, as <hi>lauríſque,</hi> except <hi>que</hi> in con<g ref="char:EOLhyphen"/>ſtant Compoſition, as <hi>úndique.</hi>
+                  </p>
+                  <p>Ablatives in <hi>a,</hi> Genitives in <hi>us,</hi> and <hi>ergo</hi> for <hi>cau<g ref="char:EOLhyphen"/>ſá</hi> have a <hi>Circumflex,</hi> for diſtinction's ſake.</p>
+                  <p>Contracted Syllables are <hi>circumflexed,</hi> and Ad<g ref="char:EOLhyphen"/>verbs are accented to diſtinguiſh them from Adje<g ref="char:EOLhyphen"/>ctives of the ſame ending.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="49" facs="tcp:95085:30"/>
+               <head>Sentences or <hi>Syntax</hi> of Words.</head>
+               <p>Of Words joyned according to Rule is made a <hi>Sentence.</hi>
+               </p>
+               <div type="section">
+                  <head>Concordance or Agreement of Words.</head>
+                  <p n="1">1. A Verb Perſonal muſt be of the ſame <hi>Number</hi> and <hi>Perſon,</hi> with the Nom. Caſe anſwering to the Queſtion <hi>who</hi> or <hi>what,</hi> made with the Engliſh Verb.</p>
+                  <p n="2">2. An Adjective muſt be of the ſame <hi>Caſe, Gen<g ref="char:EOLhyphen"/>der</hi> and <hi>Number</hi> with the Subſtantive anſwering to the Queſtion <hi>who</hi> or <hi>what,</hi> made with the Engliſh Adjective.</p>
+                  <p n="3">3. The Relative <hi>qui</hi> muſt be of the ſame <hi>Cender, Number</hi> and <hi>Perſon,</hi> with the foregoing Subſtantive, that may be repeated again after <hi>which. Quis, qualis, quantus, quot, quotus, uter,</hi> follow the ſame Rule.</p>
+                  <p n="4">4. More Subſtantives together noting the <hi>ſame thing,</hi> muſt be the ſame Caſe, and the <hi>Verb, Adje<g ref="char:EOLhyphen"/>ctive</hi> or <hi>Relative</hi> following muſt agree with the <hi>later;</hi> except the <hi>former</hi> be a <hi>living</hi> thing and the <hi>later</hi> not, or the former an <hi>Appellative,</hi> and the later a <hi>Pro<g ref="char:EOLhyphen"/>per</hi> Name of ſome <hi>Game.</hi>
+                  </p>
+                  <p>Note, any Word or whole Sentence anſwer<g ref="char:EOLhyphen"/>ing to <hi>what,</hi> may ſtand for a Subſtantive of the <hi>Neuter</hi> Gender and <hi>third</hi> Perſon.</p>
+                  <p n="5">5. If no Nom. Caſe come between the <hi>Relative</hi> and the <hi>Verb,</hi> the <hi>Verb</hi> muſt agree with the <hi>Relative.</hi>
+                  </p>
+                  <p n="6">6. Look what Caſe the <hi>Subſtantive</hi> that may be repeated after the <hi>Relative,</hi> ought to be were it ſo
+<pb n="50" facs="tcp:95085:31"/> expreſly repeated, the ſame Caſe muſt the Relative be.</p>
+                  <p n="7">7. A <hi>Collective,</hi> or <hi>Diſtributive Singular</hi> may have a Verb <hi>Plural.</hi>
+                  </p>
+                  <p n="8">8. Two or more <hi>Subſtantives</hi> Singular noting divers things will have a Verb <hi>Plural,</hi> agreeing with the <hi>firſt</hi> rather than the <hi>ſecond,</hi> and the <hi>ſecond</hi> rather than the <hi>third</hi> Perſon: likewiſe an <hi>Adjective</hi> or <hi>Re<g ref="char:EOLhyphen"/>lative Plural</hi> agreeing with the <hi>Maſc.</hi> rather than <hi>Fem.</hi> and <hi>Fem.</hi> rather than <hi>Neuter</hi> Gender; but if they ſignifie things without life, keep the <hi>Neuter</hi> Gender.</p>
+                  <p n="9">9. <hi>I, we, thou, ye, he, they</hi> and <hi>men,</hi> are ſeldom expreſſed in Latin.</p>
+                  <p n="10">10. The Word <hi>thing</hi> is ſeldom expreſſed, but im<g ref="char:EOLhyphen"/>plied in an Adjective of the <hi>Neuter</hi> Gender.</p>
+                  <p n="11">11. <hi>Buſineſs, Work, Duty, Part, Property, Office,</hi> after the Verb <hi>it is,</hi> are implied in the poſſeſſive <hi>my, thy, &amp;c.</hi> of the <hi>Neuter</hi> Gender, or in the <hi>Genitive Caſe</hi> of a Subſtantive after <hi>eſt.</hi>
+                  </p>
+                  <p n="12">12. The <hi>Relative</hi> often agreeth with a Pronoun <hi>Primitive</hi> implied in a foregoing <hi>Poſſeſſive;</hi> as <hi>meâ refert, qui, &amp;c.</hi> So the Genitive of a <hi>Participle</hi> Prae<g ref="char:EOLhyphen"/>ſent, and <hi>unius, ſolius,</hi> between a Pronoun Poſſeſſive and its Subſtantive may agree with the like implied Primitive; as <hi>meâ unius operâ. Noſtros vidiſti flen<g ref="char:EOLhyphen"/>tis ocollos.</hi>
+                  </p>
+                  <p n="13">13. When <hi>my, thy, our, your, &amp;c,</hi> may have <hi>own</hi> added; they are made by <hi>Poſſeſſives.</hi> If they cannot have <hi>own,</hi> or may be explained by <hi>of, for</hi> or <hi>towards me, thee, &amp;c.</hi> they are made by the Genitive of <hi>Pri<g ref="char:EOLhyphen"/>mitives</hi> or <hi>Demonſtratives.</hi>
+                  </p>
+                  <p n="14">14. If <hi>him, her, them</hi> may have <hi>ſelf</hi> or <hi>ſelves</hi> add<g ref="char:EOLhyphen"/>ed,
+<pb n="51" facs="tcp:95085:31"/> they are made by the reciprocal <hi>ſui,</hi> if they may not admit <hi>ſelf</hi> or <hi>ſelves,</hi> they are made by <hi>Demon<g ref="char:EOLhyphen"/>ſtratives.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Nominative governed.</head>
+                  <p n="15">15. A Noun or Pronoun without a Sign of an <hi>Ob<g ref="char:EOLhyphen"/>lique</hi> Caſe, after a Verb <hi>Subſtantive,</hi> or a Verb <hi>Neuter</hi> of <hi>Geſture,</hi> after moſt <hi>Paſſives,</hi> (except <hi>rogor, exoror, poſcor, doceor</hi>) after <hi>O</hi> of <hi>rejoycing, commend<g ref="char:EOLhyphen"/>ing</hi> or <hi>deriding,</hi> and <hi>Heu</hi> of <hi>bewailing,</hi> is the <hi>Nom. Caſe:</hi> After <hi>en</hi> or <hi>occe,</hi> the <hi>Nom.</hi> or <hi>Accuſative.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Genitive governed.</head>
+                  <p n="16">16. A <hi>Subſtantive</hi> anſwering to the Quaeſtion <hi>whoſe</hi> or <hi>whereof</hi> after another <hi>Subſtantive,</hi> or to the Queſtion <hi>what</hi> after <hi>no</hi> or <hi>none</hi> made by <hi>nil</hi> or <hi>nihil,</hi> or an <hi>Adjective</hi> put <hi>Subſtantively</hi> in the <hi>Neuter</hi> Gen<g ref="char:EOLhyphen"/>der, as <hi>this, that, much, little, &amp;c.</hi> is the Gen. C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe.</p>
+                  <p>If this Gen. ſignifie the <hi>Owner</hi> or <hi>Poſſeſſor,</hi> it may be turned into an Adjective <hi>Poſſeſſive.</hi>
+                  </p>
+                  <p n="17">17. <hi>Of,</hi> before an <hi>Adjective</hi> and <hi>Subſtantive</hi> ſpeaking to the <hi>praiſe</hi> or <hi>dispraiſe</hi> of a thing, after a Noun or Verb <hi>Subſtantive,</hi> notes a Genitive or Ablative.</p>
+                  <p n="18">18. <hi>Of,</hi> after Verbals in <hi>ax,</hi> Participials in <hi>ns</hi> or <hi>us,</hi> Adjectives of <hi>Deſire, Knowledge, Remem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rance, Care, Fear,</hi> or <hi>their contraries,</hi> alſo after <hi>Partitives, Interrogatives, Diſtributives, Indefinites, Comparatives, Superlatives</hi> and <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g>
+                     </hi> or after <hi>Compos, im<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nops, conſors, exors, particeps;</hi> or after the Imperſo<g ref="char:EOLhyphen"/>nals,
+<pb n="52" facs="tcp:95085:32"/> 
+                     <hi>pudet, piget, poenitet, taedet, miſeret,</hi> notes a Ge<g ref="char:EOLhyphen"/>nitive Caſe.</p>
+                  <p>
+                     <hi>Pertaeſus</hi> may have an Accuſative.</p>
+                  <p n="19">19. A Noun or Pronoun after <hi>Satago, miſereor, miſcreſco, intereſt, refert,</hi> is the Genitive: after <hi>miſeror</hi> an Accuſative. But <hi>me, thee, him, her, us, you, whom,</hi> after <hi>refert</hi> and <hi>intereſt,</hi> are made by theſe Ablatives Fem. <hi>Meà, tuà, ſuà, noſtrà, veſtrâ cujâ.</hi>
+                  </p>
+                  <p n="20">20. <hi>Much, little, leſs, greatly, &amp;c.</hi> before <hi>Intereſt</hi> or <hi>refert,</hi> are made by the Genitives, <hi>tanti, quanti, magni, parvi, pluris, &amp;c.</hi> or by Adverbs.</p>
+                  <p n="21">21. <hi>Of,</hi> after Adjectives of <hi>guilt,</hi> or Verbs of <hi>accuſing, condemning, acquitting,</hi> notes a Gen. of the <hi>Crime,</hi> and ſometimes of the <hi>Puniſhment.</hi>
+                  </p>
+                  <p>
+                     <hi>Note.</hi> The general Words of <hi>Crime,</hi> as <hi>crimen, ſcelus, peccatum,</hi> may be the Ablative; The ſpecial Names of Crime, as <hi>furtum, ſtuprum, &amp;c.</hi> may alſo be the Abl. with <hi>de. <g ref="char:V">Ʋ</g>ter, ullus, alius, alter, ambo, neuter, uterque,</hi> and the <hi>Superlative</hi> Degree, are uſed after ſuch Words in the Ablative only.</p>
+                  <p n="22">22. A Noun or Pronoun after Verbs of <hi>Remem<g ref="char:EOLhyphen"/>bring</hi> or <hi>forgetting,</hi> if it ſignifie a <hi>Perſon,</hi> is the Gen. or Accuſative.</p>
+                  <p>
+                     <hi>Memini</hi> to mention hath an Abl. with <hi>de.</hi>
+                  </p>
+                  <p n="23">23. <hi>Much, little, leſs, ſo much, how much, greatly, not a ruſh, &amp;c.</hi> after Verbs of <hi>esteeming,</hi> are made by the Genitives, <hi>Tanti, quanti, magni, maximi, par<g ref="char:EOLhyphen"/>vi, minoris, minimi, pluris, plurimi, nihili, ſtocci, nauci, aſſis, hujus, teruncii, &amp;c.</hi> So we ſay, <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>qui, bom conſulo,</hi> or <hi>facio.</hi>
+                  </p>
+                  <p>
+                     <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>imo,</hi> admits the Ablatives, <hi>magno, permagno, parvo, nihilo.</hi>
+                  </p>
+                  <p>We ſay alſo, <hi>Pro nihilo habeo, duco, puto.</hi>
+                  </p>
+                  <p n="24">
+                     <pb n="53" facs="tcp:95085:32"/>24. <hi>In</hi> or <hi>at</hi> with a <hi>Proper</hi> Name of a <hi>City, Town,</hi> or <hi>leſs</hi> Place of the <hi>firſt</hi> or <hi>ſecond</hi> Decl. and <hi>Sing.</hi> Number, is the Genitive. So <hi>at home, domi;</hi> at <hi>my, thy, his, our</hi> or <hi>your houſe:</hi> So we uſe <hi>Humi, belli, militiae.</hi>
+                  </p>
+                  <p n="25">25. Adverbs of <hi>plenty</hi> or <hi>want, Partim</hi> for <hi>pars, Ergo</hi> for <hi>cauſa,</hi> Adverbs made of Adjectives govern<g ref="char:EOLhyphen"/>ing a Genitive, <hi>
+                        <g ref="char:V">Ʋ</g>bi</hi> and its Compounds, <hi>unde, nuſ<g ref="char:EOLhyphen"/>quam, eo, quo, huc, huccine, nunc, tunc, interea, pri<g ref="char:EOLhyphen"/>dic, postridie,</hi> may have a Genitive after them.</p>
+                  <p n="26">26. The Praepoſition <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enus up to,</hi> is ſet after a Ge<g ref="char:EOLhyphen"/>nitive <hi>Plural.</hi>
+                  </p>
+                  <p>In theſe Expreſſions, <hi>Minimè gentium. Quoad ejus fieri poteſt,</hi> The Genitive is redundant.</p>
+               </div>
+               <div type="section">
+                  <head>The Dative governed.</head>
+                  <p n="27">27. A Noun or Pronoun anſwering to the Que<g ref="char:EOLhyphen"/>ſtion <hi>To</hi> or <hi>for whom</hi> or <hi>what,</hi> after words ſignifying <hi>to be, do, be done, gotten</hi> or <hi>procured, profit</hi> or <hi>hurt; Pleaſure</hi> or <hi>grief; Help, favour</hi> or <hi>hinderance, Like<g ref="char:EOLhyphen"/>neſs, unlikeneſs, equality, inequality; Fitneſs, unfit<g ref="char:EOLhyphen"/>neſs; Nearneſs, eaſineſs, difficulty; Truſt, diſtruſt; Obedience, reſiſtance, giving, reſtoring, owing, promi<g ref="char:EOLhyphen"/>ſing, paying, thanking, threatning, flattering, being an<g ref="char:EOLhyphen"/>gry, commanding, telling, ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wing</hi> or <hi>pardoning,</hi> is the Dative Caſe.</p>
+                  <p n="28">28. <hi>Vaco, vacat, nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o, miſceo, haereo, voveo, devo<g ref="char:EOLhyphen"/>veo, initior, inſidior, invideo, ſuadeo, perſuadeo, ex<g ref="char:EOLhyphen"/>pedit, convenit, conſert, conſtat, competit, accidit, con<g ref="char:EOLhyphen"/>tingit,</hi> and moſt Verbs compounded with <hi>Satis, bene, male, vale, ad, con, contra, in, inter, ob, poſt, prae, ſub, ſuper;</hi> alſo <hi>ſum,</hi> with its Compounds (except
+<pb n="54" facs="tcp:95085:33"/> 
+                     <hi>poſſum</hi>) and the Interjections <hi>Hei</hi> and <hi>vae</hi> have a Da<g ref="char:EOLhyphen"/>tive Caſe.</p>
+                  <p n="29">29. <hi>From,</hi> after Words of <hi>taking away, diſſent<g ref="char:EOLhyphen"/>ing, differing,</hi> notes a Dative following, or an Abl. with a P epoſition.</p>
+                  <p>
+                     <hi>Juvo, adjuvo, lado, offendo, obeo, adeo, aſſicio, ad<g ref="char:EOLhyphen"/>miror, jubeo, praeeo, praecedo, pracurro, praeveni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, prae<g ref="char:EOLhyphen"/>ſto</hi> ſo <hi>excello, praeverto, praverto, antedo, antecedo, anteſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o ant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>verto,</hi> have an Accuſative. <hi>Doleo</hi> an Ac<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ive of the <hi>thing.</hi>
+                  </p>
+                  <p>
+                     <hi>A<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſentior, aſſentor, adverſor, palpo, impo<g ref="char:EOLhyphen"/>no, inceſſit illudo, inſulto, invado, attendo, occumbo, fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eo, ſu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>cio,</hi> may have an Accuſative.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>mminis, proprius, ſuperſtes, ſimilis, par, aequalis, aen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us, affinis, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>liſſimus,</hi> have ſometimes a Geni<g ref="char:EOLhyphen"/>tive. <hi>Altenus</hi> hath a Gen. Dat. or Abl. with <hi>a</hi> or <hi>ab.</hi>
+                  </p>
+                  <p>Adjectives of <hi>ſitneſs,</hi> and <hi>utilis, inutilis, par, aequa<g ref="char:EOLhyphen"/>lis,</hi> have alſo an Accuſ. with <hi>ad.</hi>
+                  </p>
+                  <p>
+                     <hi>Propior</hi> and <hi>proximus</hi> with their <hi>Adverbs</hi> may have an Accuſative.</p>
+                  <p n="30">30. <hi>To</hi> or <hi>with</hi> after Verbs of <hi>Comparing,</hi> note a Dat. or Accuſ. with <hi>ad,</hi> or Abl. with <hi>cum.</hi>
+                  </p>
+                  <p n="31">31. <hi>Of</hi> or <hi>by</hi> after a Paſſive Participle or Verbal in <hi>bilis</hi> note a Dat. of the <hi>Perſon.</hi>
+                  </p>
+                  <p n="32">32. <hi>Have,</hi> the Engliſh of <hi>hal co</hi> may be made by <hi>eſt</hi> or <hi>ſuppetit,</hi> turning the Nom. into the Dative, and the Accuſative into the Nominative.</p>
+                  <p n="33">33. Two Words noting <hi>Perſon</hi> and <hi>thing,</hi> after <hi>Sum, do, duco, verto, puto, imputo, habeo,</hi> and ſome o<g ref="char:EOLhyphen"/>thers, may be both Datives.</p>
+                  <p>The Datives, <hi>Mihi, tibi, ſibi,</hi> are often redundant.</p>
+               </div>
+               <div type="section">
+                  <pb n="55" facs="tcp:95085:33"/>
+                  <head>The Accuſative.</head>
+                  <p n="34">34. A Noun or Pronoun anſwering to the Que<g ref="char:EOLhyphen"/>ſtion <hi>whom</hi> or <hi>what,</hi> after a Verb <hi>Active</hi> or of a <hi>Tranſitive</hi> ſignification, or after <hi>En, ecce</hi> of upbraid<g ref="char:EOLhyphen"/>ing, and <hi>O</hi> of exclaiming, is the Accuſative Caſe.</p>
+                  <p>A Verb <hi>Abſolute</hi> may have an Accuſ. ſometimes an Abl. of like ſignification with its own; as <hi>I live a life.</hi>
+                  </p>
+                  <p n="35">35. The <hi>Perſon</hi> and <hi>thing</hi> after <hi>celo,</hi> and Verbs of <hi>teaching</hi> or <hi>asking</hi> are both Accuſative, one of which may alſo be the Abl. with a Prepoſition.</p>
+                  <p>
+                     <hi>Admonco, commoneo, commonefacio,</hi> have an Ac<g ref="char:EOLhyphen"/>cuſative of the <hi>Perſon,</hi> with theſe Accuſatives of the <hi>thing, Hoc, iliud, istud, id, idem, quod, quid, aliquid, nihil, nonnihil, multa, pauca, unum, duo, &amp;c.</hi> So we ſay, <hi>Conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lo te hanc rem,</hi> or <hi>de hàc re.</hi>
+                  </p>
+                  <p>The Paſſives, <hi>doccor, rogor, moneor, poſcor,</hi> have an Accuſ. of the <hi>thing.</hi>
+                  </p>
+                  <p n="36">36. The <hi>meaſure, diſtance</hi> or <hi>ſpace,</hi> and alſo <hi>length</hi> of <hi>time</hi> anſwering to the Queſtion <hi>how long?</hi> are the Accuſ. ſometimes Ablative; and the <hi>meaſure</hi> ſometimes Genitive.</p>
+                  <p n="37">37. <hi>To, into, unto,</hi> before <hi>ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> the Countrey, or a <hi>Proper</hi> Name of a <hi>City</hi> or <hi>Town</hi> after a Verb of <hi>Motion,</hi> note an Accuſative: So we uſe <hi>Domum,</hi> home; but <hi>Appellatives</hi> of Place, and the Proper Names of <hi>Kingdoms</hi> or <hi>Countries</hi> are the Accuſ with a Prepoſition.</p>
+                  <p n="38">38. <hi>To, unto</hi> after <hi>attin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, pertinet, spectat,</hi> and Verbs of <hi>calling, provoking, inviting, inclining,</hi> note an Accuſative with <hi>ad.</hi>
+                  </p>
+                  <p n="39">
+                     <pb n="56" facs="tcp:95085:34"/>39. Theſe Prepoſitions have an Accuſative. <hi>Ad,</hi> to, at, until, <hi>&amp;c. Apud,</hi> at, with. <hi>Ante,</hi> before. <hi>Adverſus</hi> or <hi>ſum,</hi> againſt, toward. <hi>Cis,</hi> on this ſide. <hi>Citra,</hi> on that ſide, without. <hi>Circum, circa, circiter,</hi> about. <hi>Contra,</hi> againſt. <hi>Erga,</hi> towards. <hi>Extra,</hi> with<g ref="char:EOLhyphen"/>out, beſides. <hi>In,</hi> into, upon, for, on, over, againſt, towards. <hi>Inter,</hi> between, among. <hi>Intra,</hi> within. <hi>In<g ref="char:EOLhyphen"/>fra,</hi> beneath. <hi>Juxta</hi> beſide, hard by. <hi>Ob,</hi> for, be<g ref="char:EOLhyphen"/>fore. <hi>Penes,</hi> in, with. <hi>Per,</hi> by or through. <hi>Pone,</hi> behind. <hi>Poſt,</hi> after, behind. <hi>Praeter,</hi> beſide, except, beyond. <hi>Propter,</hi> for, near by. <hi>Secundum,</hi> accord<g ref="char:EOLhyphen"/>ing, next to, on the ſide of. <hi>Secus,</hi> by <hi>Sub,</hi> towards, about. <hi>Super,</hi> upon, beyond. <hi>Supra,</hi> above, beyond. <hi>Trans,</hi> over, on the other ſide. <hi>
+                        <g ref="char:V">Ʋ</g>ltra,</hi> beyond. <hi>Ver<g ref="char:EOLhyphen"/>ſus,</hi> toward, which is always ſet after the Caſe. <hi>Subter,</hi> under, hath both Accuſ. and Ablative.</p>
+                  <p>Many Verbs have an Accuſative by vertue of the Prepoſition wherewith they are compounded, as <hi>adeo, praetereo. E</hi> or <hi>ex</hi> in compoſition, for <hi>extra,</hi> and <hi>prae</hi> for <hi>praetor,</hi> have an Accuſative.</p>
+               </div>
+               <div type="section">
+                  <head>The Vocative.</head>
+                  <p n="40">40. The Vocative is uſed in <hi>calling</hi> or <hi>speaking</hi> to, either with <hi>O, heus, hem,</hi> or without.</p>
+               </div>
+               <div type="section">
+                  <head>The Ablative.</head>
+                  <p n="41">41. A Noun ſignifying the <hi>Cauſe</hi> why; the <hi>In<g ref="char:EOLhyphen"/>ſtrument</hi> wherewith, the <hi>Manner</hi> how, the <hi>Price</hi> whereat, the <hi>Part</hi> wherein, the <hi>Diſeaſe</hi> whereof, or <hi>Quality</hi> wherewith, the <hi>Time</hi> when or wherein, the
+<pb n="57" facs="tcp:95085:34"/> 
+                     <hi>Meaſure</hi> or <hi>Degree</hi> of <hi>Exceſs</hi> whereby, the <hi>Game</hi> whereat, and theſe, <hi>by Birth, Kindred, Parentage, Deſcent, Nation, Name, Nature, Degree</hi> or <hi>Quality; by</hi> or <hi>at command, intreaty, requeſt, perſuaſion, ad<g ref="char:EOLhyphen"/>vice, counſel; at firſt ſight, &amp;c.</hi> are the Ablat. Caſe.</p>
+                  <p>Note, the <hi>Cauſe, manner</hi> or <hi>part</hi> may admit a Pre<g ref="char:EOLhyphen"/>poſition. The <hi>Part</hi> affected is ſometimes a Genitive, and in <hi>Poëts</hi> an Accuſative.</p>
+                  <p>
+                     <hi>Tanti, quanti, pluris, minoris</hi> noting <hi>price,</hi> are uſed only in the Gen. <hi>Valet</hi> hath an Accuſ. of price.</p>
+                  <p n="42">42. <hi>Then</hi> after a <hi>Comparative</hi> if it be not made by <hi>quàm,</hi> notes an Ablative.</p>
+                  <p>Comparatives may have before them theſe Ab<g ref="char:EOLhyphen"/>latives, or rather Adverbs, <hi>tanto, quanto, aliquando, hoc, eo, quo, multo, paulo, minimo.</hi>
+                  </p>
+                  <p n="43">43. <hi>In</hi> or <hi>at</hi> with a Proper Name of a <hi>City, Town</hi> or <hi>private place,</hi> of the <hi>Plural</hi> Number only, or <hi>third</hi> Decl. or <hi>Rus</hi> the Countrey; <hi>From, by, through,</hi> with any <hi>Proper</hi> Name of <hi>City, Town</hi> or <hi>private place, Home</hi> or <hi>Rus</hi> the Countrey, note an Ablative. <hi>Ap<g ref="char:EOLhyphen"/>pellatives</hi> of place, and <hi>Proper</hi> Names of <hi>Kingdoms</hi> or <hi>Countreys</hi> with theſe Signs, are uſed with a Prepo<g ref="char:EOLhyphen"/>ſition ſerving to the Ablative.</p>
+                  <p n="44">44. <hi>
+                        <g ref="char:V">Ʋ</g>tor, fungor, fruor, gaudeo, veſcor, victito, ni<g ref="char:EOLhyphen"/>tor, ſatus, ortus, editus, dignus, indignus, praeditus, captus, contentus, fretus,</hi> have an Ablative.</p>
+                  <p>
+                     <hi>Veſcor</hi> may have an Accuſ. <hi>Potior,</hi> an Abl. Gen. or Accuſ. <hi>Dignus, indignus,</hi> ſometimes a Gen. <hi>Opus</hi> and <hi>uſus</hi> have an Abl. ſometimes a Genitive.</p>
+                  <p n="45">45. <hi>Of</hi> or <hi>with</hi> after Words noting, <hi>Plenty, a<g ref="char:EOLhyphen"/>bundance, want, emptineſs, loading, unloading, ſilling, eaſing,</hi> note an Ablative; but <hi>benignus, ſertilis, libe<g ref="char:EOLhyphen"/>ralis, prosper, laetus, largus, prodigus, profuſus, ſteri<g ref="char:EOLhyphen"/>lis,
+<pb n="58" facs="tcp:95085:35"/> pauper, indigus, egonus, expers, purus,</hi> will ra<g ref="char:EOLhyphen"/>ther have a Genitive.</p>
+                  <p n="46">46. <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ber, immunis, vacuus, purus, nudus, inops, orbus, extorr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, exul,</hi> have an Abl. with <hi>a</hi> or <hi>ab.</hi>
+                  </p>
+                  <p n="47">47. The <hi>matter</hi> of which a thing is made or con<g ref="char:EOLhyphen"/>ſiſts is the Abl. with <hi>ex</hi> or <hi>de.</hi>
+                  </p>
+                  <p>The <hi>Perſon of, by,</hi> or <hi>from</hi> whom we <hi>hear, enquire, learn, underſtand, buy, hire, conjecture, remove, diſ<g ref="char:EOLhyphen"/>ſent, are diſcant,</hi> is an Ablative with <hi>a, ab, abs, e</hi> or <hi>ex.</hi>
+                  </p>
+                  <p n="48">48. The <hi>Perſon</hi> or <hi>thing</hi> of which after <hi>mereor</hi> with <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ene ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, &amp;c.</hi> is the Abl. with <hi>de.</hi>
+                  </p>
+                  <p n="49">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> or <hi>doer of</hi> or <hi>by</hi> which, after a Pa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> or Neuter-Paſſive, is an Ablative with <hi>a, ab,</hi> or <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s</hi>
+                  </p>
+                  <p n="50">5<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> A Noun o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> P onoun joyned with a Participle as <hi>Caſat <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>,</hi> or two Subſtantives with <hi>being</hi> between them, as <hi>A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſius being Emperor;</hi> not a<g ref="char:EOLhyphen"/>greeing with or governed of any other Word, are both Ablative, called the <hi>A<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>tive abſolute.</hi>
+                  </p>
+                  <p n="51">51. Theſe Prepoſitions have an Ablative. <hi>A, ab, abs,</hi> of, by or from. <hi>Abſque,</hi> without. <hi>Coram,</hi> before, or in preſence of. <hi>Cum,</hi> with. <hi>De,</hi> of, con<g ref="char:EOLhyphen"/>cerning. <hi>E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ex,</hi> of, out of. <hi>Pra,</hi> before, in compari<g ref="char:EOLhyphen"/>ſon of. <hi>Pro,</hi> for before. <hi>Sinc,</hi> without. <hi>In,</hi> in or a<g ref="char:EOLhyphen"/>mong. <hi>Sub,</hi> under. <hi>Super,</hi> of, concerning.</p>
+                  <p>
+                     <hi>Tenus,</hi> up to, is ſet after an Abl Singular. <hi>Clam,</hi> hath an Abl. or Accuſ. <hi>Palam,</hi> an Ablative.</p>
+                  <p>Many Verbs have an Abl. by vertue of the Pre<g ref="char:EOLhyphen"/>poſition they are compounded withal, which Pre<g ref="char:EOLhyphen"/>poſition is alſo ſometimes repeated.</p>
+                  <p>Before a <hi>Vowel, j</hi> Conſonant, <hi>l</hi> or <hi>r,</hi> we uſe <hi>ab</hi> or <hi>ex.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fore <hi>t, q.</hi> we uſe <hi>abs.</hi> Before any other Con<g ref="char:EOLhyphen"/>ſonant, we uſe <hi>a</hi> or <hi>e.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="59" facs="tcp:95085:35"/>
+                  <head>Moods.</head>
+                  <p n="52">52. A <hi>Verb</hi> immediately following a <hi>Verb, Ad<g ref="char:EOLhyphen"/>jective</hi> or an <hi>Accuſative</hi> after a Verb, is the <hi>Infini<g ref="char:EOLhyphen"/>tive Mood.</hi>
+                  </p>
+                  <p n="53">53. The Conjuction <hi>that</hi> with a Nom. Caſe be<g ref="char:EOLhyphen"/>tween two Verbs, being caſt away, turns the <hi>N<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> into the <hi>Accuſ.</hi> and the following Verb into the <hi>In<g ref="char:EOLhyphen"/>finitive</hi> Mood. <hi>That</hi> is a Conjunction when it cannot be turned into <hi>which.</hi>
+                  </p>
+                  <p n="54">54. The Infinitive of Verbs which may have a Nom. after them, will have the ſame Caſe after it which it hath before it. But <hi>Eſſe</hi> and <hi>Fieri</hi> having be<g ref="char:EOLhyphen"/>fore them a Dative after <hi>datur, licet, expedit,</hi> and ſuch like, may have either <hi>Dative</hi> or <hi>Accuſative</hi> after them.</p>
+                  <p n="55">55. <hi>Participles, Gerunds</hi> and <hi>Supines</hi> govern the ſame Caſes as the Verbs they come of.</p>
+                  <p n="56">56. <hi>Of,</hi> with the Engliſh of the Participle in <hi>ing,</hi> or the Engliſh of the Infinitive <hi>Active</hi> after Adje<g ref="char:EOLhyphen"/>ctives governing a Genttive Caſe, is the <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>creind</hi> in <hi>di.</hi>
+                  </p>
+                  <p n="57">57. The Engliſh of the Participle in <hi>ing,</hi> with the ſign of an Ablative Caſe, is a <hi>Gerund</hi> in <hi>do,</hi> with or without a Prepoſition.</p>
+                  <p n="58">58. The Engli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h of the Participle in <hi>ing</hi> with <hi>to</hi> or <hi>for,</hi> after Words requiring an Accuſ. with <hi>ad,</hi> or after the <hi>Actor, Matter</hi> or <hi>Inf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rnment</hi> of Action, is the <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>nd</hi> in <hi>dum</hi> with <hi>ad.</hi> The Gerund in <hi>dum</hi> is alſo uſed with <hi>ob, propter, ante, inter, circa.</hi>
+                  </p>
+                  <p n="59">59. <hi>Muſ.</hi> or <hi>ou<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> between a Nom Caſe and its Verb, turns the <hi>N<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> into the <hi>Dat.</hi> and the <hi>Verb</hi> into a <hi>Gerund</hi> in <hi>dum</hi> with <hi>eſt.</hi>
+                  </p>
+                  <p n="60">
+                     <pb n="60" facs="tcp:95085:36"/>60. A <hi>Gerund</hi> with an Accuſ. following may be turned into a Participle in <hi>dus;</hi> and put both Words into the <hi>Genitive,</hi> if it be a Gerund in <hi>di;</hi> into the <hi>Dat</hi> or <hi>Abl.</hi> if a Gerund in <hi>do;</hi> and into the <hi>Ac<g ref="char:EOLhyphen"/>cuſ.</hi> if a Gerund in <hi>dum.</hi> The Accuſ. Pl. after <hi>di,</hi> may be turned into the Gen. Pl.</p>
+                  <p n="61">61. The Engliſh of the <hi>Infinitive Active,</hi> or Participle in <hi>ing,</hi> after Verbs of <hi>moving to</hi> a <hi>place,</hi> is the <hi>former Supine.</hi> The Engliſh of the ſame Partici<g ref="char:EOLhyphen"/>ple after Verbs of <hi>moving from</hi> a place, is the <hi>later Supine.</hi>
+                  </p>
+                  <p n="62">62. The Engliſh of the Infinitive <hi>Paſſive</hi> after <hi>fas, nefas, opus, indignus, dignus, foedus, turpis, facilis,</hi> and ſuch like, is the <hi>later Supine.</hi>
+                  </p>
+                  <p n="63">63. Words uſed <hi>indefinitely,</hi> that is, neither in <hi>queſtion,</hi> nor pointing out ſome <hi>certain</hi> particular thing; after Verbs of <hi>doubting, enquiring, knowing, or being ignorant, hearing, ſeeing, obſerving, &amp;c.</hi> cauſe the Verb following to be the Potential or Subjun<g ref="char:EOLhyphen"/>ctive Mood.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>t</hi> that, the <hi>Cauſal,</hi> or of <hi>Conceſſion,</hi> or for <hi>ut<g ref="char:EOLhyphen"/>pote,</hi> or <hi>ne non,</hi> hath a Subjunctive.</p>
+                  <p>After Verbs of fearing, <hi>ne</hi> is as much as <hi>that; ut</hi> as much as <hi>that not.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tſi, tametſi, etiamſi, quanquam, ubi, cúm, pri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<g ref="char:EOLhyphen"/>quam, antequam, poſtquam, ſimul ut, ſimul ac, ſimul atque,</hi> have a Subjunctive.</p>
+                  <p>
+                     <hi>Ne,</hi> forbidding, <hi>hath an Imperative</hi> or Subjunctive.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The uſe of <hi>Quòd</hi> and <hi>ut.</hi>
+               </head>
+               <p>
+                  <hi>That,</hi> as much as, <hi>quia,</hi> becauſe that, or ſpeaking of ſomething <hi>paſt</hi> or <hi>done,</hi> is made by <hi>quòd. That</hi> as
+<pb n="61" facs="tcp:95085:36"/> much as, <hi>to the end that,</hi> or ſpeaking of ſomething <hi>to come,</hi> is made by, <hi>ut.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t,</hi> is commonly uſed after <hi>Nouns</hi> and <hi>Pronouns,</hi> or Verbs of <hi>commanding, intreating, fearing, willing, deſiring, endeavouring, wiſhing, warning, adviſing, obtaining, permitting, effecting,</hi> and ſuch as note the event, as <hi>fit, evenit, &amp;c.</hi> and the Particles, <hi>adeo, ideo, ſic, ita, tam, tantum abeſt;</hi> or when <hi>may, might, &amp;c.</hi> follow.</p>
+               <p>
+                  <hi>That,</hi> after <hi>I think, know, believe, judge, gueſs, ſay, complain, &amp;c.</hi> is made by <hi>quòd. That not,</hi> is made by <hi>nè.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Words which keeping the ſame ſignification govern divers Caſes.</head>
+               <p>
+                  <hi>Dono,</hi> militi phaleras, <hi>or</hi> militem phaleris. <hi>Mede<g ref="char:EOLhyphen"/>or,</hi> vitiis <hi>or</hi> vitia. <hi>Moderor</hi> affectui <hi>or</hi> affectum. <hi>Palp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, adulor</hi> tibi <hi>or</hi> te. <hi>Comitor</hi> tibi <hi>or</hi> te. <hi>Dominor</hi> victis <hi>or</hi> victos. <hi>Loquor</hi> tibi <hi>or</hi> ad te. <hi>Cratulor</hi> tibi felicitatem <hi>or</hi> de felicitate. <hi>Medicor</hi> viro <hi>or</hi> morbum. <hi>Praeſtolor</hi> tibi <hi>or</hi> te. <hi>Acquieſco</hi> huic rei <hi>or</hi> in hac re. <hi>Adsperſit</hi> mihi labem, <hi>or</hi> me labe. <hi>Conducit</hi> huic rei <hi>or</hi> ad hanc rem <hi>Antceo, antecedo, anteſco, attendo</hi> tibi <hi>or</hi> te. <hi>Conſen<g ref="char:EOLhyphen"/>tio</hi> tibi <hi>or</hi> tecum. <hi>Diſſentio, diſſideo</hi> tibi, a te, tecum, <hi>Illudo, inſulto</hi> tibi, te, in te. <hi>Induo, exuo</hi> tibi veſtem <hi>or</hi> te veſte. <hi>Inſtravit</hi> equo penulam, <hi>or</hi> equum penula. <hi>Obtrecto</hi> laudibus <hi>or</hi> laudes. <hi>Interdico</hi> tibi hanc rem <hi>or</hi> hac re. <hi>Occum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it</hi> morti <hi>or</hi> morte. <hi>Percontor</hi> tibi <hi>or</hi> te de hac re. <hi>Praeſto, Praecurro, praecello, praverto</hi> tibi <hi>or</hi> te. <hi>Prohibeo</hi> tibi domum <hi>or</hi> te domo. <hi>Subeo tecto</hi> or <hi>tectum.</hi> Plurima ſalute <hi>impertit</hi> Parmenonem: Huic
+<pb n="62" facs="tcp:95085:37"/> rei aliquid temporis <hi>impertit. Mitto</hi> tibi <hi>or</hi> ad te. <hi>La<g ref="char:EOLhyphen"/>tet</hi> ſenſui <hi>or</hi> ſenſum. <hi>Olet</hi> nardum <hi>or</hi> nardo. <hi>Pluit</hi> la<g ref="char:EOLhyphen"/>pides <hi>or</hi> lapidibus.</p>
+            </div>
+            <div type="part">
+               <head>Words which in a different ſence govern devers Caſes.</head>
+               <p>
+                  <hi>Auſeulto</hi> for <hi>obedio,</hi> tibi; for <hi>audio,</hi> te. <hi>Conſulo</hi> for <hi>conſilium do,</hi> or <hi>prospicio,</hi> tibi; for <hi>Conſilium à te peto,</hi> te. <hi>Laboro</hi> for <hi>agroto,</hi> febri; for <hi>anxius ſum,</hi> de ſalute publica. <hi>Imp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> to pi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> finem operi; <hi>impono</hi> for <hi>decipio,</hi> tibi. <hi>Cat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> for <hi>provideo,</hi> tibi; for <hi>declino periculum,</hi> à te; for <hi>ad cautionem ſtatuo,</hi> de, &amp;c. So <hi>Metuo, timeo, ſormido tibi or</hi> de <hi>te,</hi> te, à te. <hi>Acce<g ref="char:EOLhyphen"/>do</hi> to aſſent, <hi>tibi;</hi> to go unto, <hi>te</hi> or <hi>ad te. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mulor</hi> to envy, <hi>tibi;</hi> to imitate <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e. Contingit</hi> it befals <hi>mihi;</hi> it touches, <hi>me. Cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to</hi> to favour, <hi>tibi;</hi> to deſire, <hi>te. De<g ref="char:EOLhyphen"/>ficit</hi> it is wanting, <hi>mihi;</hi> it fails, <hi>me;</hi> he revolts, <hi>à me. Faeneror</hi> to lend on uſe, <hi>tibi: Fan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ro,</hi> to borrow on uſe, <hi>aby te. Incun<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> to le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n on, <hi>baculo;</hi> to fall on, <hi>gladio</hi> or <hi>in gladium:</hi> to plie, ſtudy or endeavour, <hi>in</hi> or <hi>ad aliquid. i<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>io ſaluti</hi> I provide for: <hi>Proſpicio periculum,</hi> I foreſee or am aware of: <hi>Peto mihi <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rum,</hi> I ask: <hi>Tet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> te gladio</hi> I thruſt at: <hi>Peto d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> I am going: <hi>Recipio tibi,</hi> I promiſe: <hi>Reci<g ref="char:EOLhyphen"/>pio te,</hi> I receive: <hi>Reci<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi> I take upon me: <hi>Recipio me d<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>m,</hi> I betake. <hi>P<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> tibi,</hi> I relate, <hi>ad te,</hi> I refer. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nuncio <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> I ref<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe: <hi>R nun<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſulem,</hi> I declare. <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lvo tibi,</hi> I pay: <hi>Solvo te,</hi> I acquit. <hi>Stud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> uni, in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, in anum h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c,</hi> I labour for. <hi>Studeo h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c unum,</hi> I deſire. <hi>Temp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, I mix: <hi>Mero,</hi> I abſtain or ſtine: <hi>So<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> I appreaſe: <hi>Soctis,</hi>
+                  <pb n="63" facs="tcp:95085:37"/> I refrain from. <hi>Vaco Philoſophiae,</hi> I ſtudy: <hi>Ad in<g ref="char:EOLhyphen"/>eptias,</hi> I am at leiſure. <hi>Culpa</hi> I am free: <hi>Vacat lo<g ref="char:EOLhyphen"/>cus,</hi> is void. <hi>Conducit tuae laudi, ad ventris victum, in rem tuam,</hi> it avails or conduceth: <hi>Conducit equum,</hi> he hires <hi>Convenit illa tibi,</hi> ſhe ſuits with: <hi>Sacis in<g ref="char:EOLhyphen"/>ter ſe convenit urſis,</hi> they agree together. <hi>De hoc pa<g ref="char:EOLhyphen"/>rum inter authores convenit,</hi> 'tis not agreed upon: <hi>Convenit mihi tecum,</hi> we agree. <hi>Do tibi literas, i. e.</hi> to ſend to another: <hi>Do ad to literas, i. e.</hi> to read.</p>
+            </div>
+            <div type="part">
+               <head>The moſt uſual <hi>Figures</hi> in Conſtruction.</head>
+               <p>
+                  <hi>Zeugma,</hi> when a Verb or Adjective expreſly a<g ref="char:EOLhyphen"/>greeing with the neareſt Subſtantive, is reduced to others in the ſame S<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ence.</p>
+               <p>
+                  <hi>Syllepſis,</hi> when a Word relating to many Sub<g ref="char:EOLhyphen"/>ſtantives, agrees expreſly with the more worthy <hi>Per<g ref="char:EOLhyphen"/>ſon</hi> or Gender.</p>
+               <p>
+                  <hi>Syntheſis,</hi> when Words agree only in Sence, as <hi>Centaurus magna.</hi>
+               </p>
+               <p>
+                  <hi>Prolepſis,</hi> when after the <hi>General</hi> expreſſed, the <hi>Particulars</hi> follow in a differing Number or Gender; as <hi>Duae aquilae volaverunt, una ab ortu, altera ab oc<g ref="char:EOLhyphen"/>caſu.</hi>
+               </p>
+               <p>
+                  <hi>Polyſyndeton,</hi> when many Conjunctions are in one Sentence.</p>
+               <p>
+                  <hi>Aſyndeton,</hi> when the Conjunctions are wanting.</p>
+               <p>
+                  <hi>Anaſtroph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> when a Praepoſition is ſet after its Caſe.</p>
+               <p>
+                  <hi>Synchyſis,</hi> when the order or place of Words is confuſed</p>
+               <p>
+                  <hi>Pleonaſmus,</hi> when ſome Word is ſuperfluous or redundant.</p>
+               <pb n="64" facs="tcp:95085:38"/>
+               <p>
+                  <hi>Elleipſis,</hi> when ſome principal Word is wanting or only underſtood.</p>
+               <p>
+                  <hi>Synecdoche,</hi> when an Accuſ. of the part is uſed for an Ablative.</p>
+               <p>
+                  <hi>Hypallage,</hi> when Words change Caſes, as <hi>darc claſſibus auſtros.</hi>
+               </p>
+               <p>
+                  <hi>Tmeſis,</hi> when the Parts of a Compound Word are ſeparated.</p>
+            </div>
+            <div type="part">
+               <head>Points or ſtops.</head>
+               <p n="1">1. <hi>Comma</hi> thus, 2. <hi>Colon</hi> thus: 3. <hi>Semi<g ref="char:EOLhyphen"/>colon</hi> thus; 4. <hi>Periodus</hi> thus. 5. <hi>Interrogatio</hi> thus? 6. <hi>Admiratio</hi> thus!</p>
+               <p>
+                  <hi>Parentheſis</hi> this Incloſure () <hi>Paratheſis</hi> thus []</p>
+            </div>
+            <div type="part">
+               <head>The Quantity of Syllables.</head>
+               <p>A Syllable is either <hi>long,</hi> as <hi>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dax;</hi> or <hi>ſhort,</hi> as <hi>bĕnĕ;</hi> or <hi>common.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>General Rules.</head>
+               <p>A Vowel before two Conſonants or a double Con<g ref="char:EOLhyphen"/>ſonant ending one Word, and another beginning the next, is long by <hi>Poſition.</hi>
+               </p>
+               <p>A ſhort Vowel, when a <hi>Mute</hi> with a <hi>Liquid</hi> be<g ref="char:EOLhyphen"/>gin the next Syllable, is <hi>Common.</hi>
+               </p>
+               <p n="2">2. All <hi>Dipthongs</hi> (except <hi>prae</hi> before a Vowel in compoſition) and all <hi>contracted</hi> Syllables, are long.</p>
+               <p n="3">3. A Vowel before a Vowel in the ſame Word (though <hi>h</hi> come between) is ſhort. Except <hi>e</hi> between <hi>i</hi> and <hi>i</hi> in the fifth Declenſion <hi>a</hi> in Genitives in <hi>aï, a</hi>
+                  <pb n="65" facs="tcp:95085:38"/> and <hi>e</hi> in ſuch Vocatives, as <hi>Cai, Pompeï, i</hi> in <hi>fio</hi> when <hi>er</hi> follows not, <hi>e</hi> in <hi>eheu,</hi> all which are long. Genitives in <hi>ius</hi> have <hi>i</hi> common, but in <hi>alïus</hi> 'tis long, in <hi>alterius</hi> ſhort, in <hi>Solius, neutrius, alterurrius,</hi> ſeldom ſhort. <hi>O</hi> in <hi>ohe</hi> is common In <hi>Greek</hi> Words one Vowel before another is often long.</p>
+            </div>
+            <div type="part">
+               <head>Rules for ſome firſt and middle Syllables.</head>
+               <p>
+                  <hi>Derivatives and Compounds uſually keep the Quantity of the Primitives and Simples. Except</hi> Vōcis, lēgis, rēgis, rēgula, sēdes, ſuſpīcio, mācero, hū<g ref="char:EOLhyphen"/>mor, hūmanus, sēcius, dēnus, jūgerum, jūnior, lāterna, lītera, nōnus, pēnuria, tēgula, vōmer, jūcundus, <hi>long:</hi> Dŭcis, dĭcax, sŏpor, săgax, dĭtio, fĭdes, lŭcerna, ŏdi<g ref="char:EOLhyphen"/>um, nŏta, mŏleſtus, ărena, năto, văricoſus, fărina, cŭ<g ref="char:EOLhyphen"/>rulis, ŏfella, mămilia, tĭgillum, sĭgillum, frăgor, frăgi<g ref="char:EOLhyphen"/>lis, păgella, pŏſui, innŭba, pronŭba, deſĕro, peſĕro, cognĭtum, agnĭtum praeſtĭturus, reſtĭturus, cauſſidĭcus, sĭquidem, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ŏdie, ſemisŏpitus, <hi>ſhort.</hi>
+               </p>
+               <p>
+                  <hi>The Particles</hi> bi, tri, tre, du, <hi>in compoſition are ſhort.</hi>
+               </p>
+               <p>E <hi>in the end of the former of two Verbs com<g ref="char:EOLhyphen"/>pounded is ſhort.</hi>
+               </p>
+               <p>I <hi>and</hi> O <hi>are long in</hi> ubīque, ubīlibet, ibīdem, quan<g ref="char:EOLhyphen"/>dōquc, quandōcunque. O <hi>is ſhort in</hi> quandŏquidem. I <hi>in</hi> idem <hi>Maſculine is long, in</hi> idem <hi>Neuter, ſhort.</hi>
+               </p>
+               <p>Ab, ad, ante, circum, in, ob, per, ſub, ſuper, re, <hi>are ſhort, but</hi> re <hi>in</hi> refert <hi>for</hi> intereſt <hi>is long.</hi>
+               </p>
+               <p>A, e, de, pro, di, ſe, contra, ſupra, infra, <hi>and</hi> tra <hi>for</hi> trans <hi>are long.</hi> Di <hi>in</hi> dĭrimo, diſertus <hi>is ſhort</hi> Pro <hi>is ſhort in</hi> Prŏcella, prŏfugus, prŏtervus, prŏ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epos, prŏneptis, prŏfanus, prŏfiteor, prŏfandus, prŏficiſcor,
+<pb n="66" facs="tcp:95085:39"/> Prŏſuri, prŏpero, prŏfugio, prŏfecto, prŏfectus. Pro <hi>is Common in</hi> p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cumbo, procuro, profundo, propello, propulſo, p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pago.</p>
+               <p>Praeters <hi>and</hi> Supines <hi>of</hi> two <hi>Syllables have the former long, except</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ĭbi, dĕdi, fĭdi, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ĕti, tŭli, ſcĭdi, ră<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> dă<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um, cătum, ĭtum, rŭtum, lĭtum, sĭtum, quĭtum <hi>and</hi> c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tum <hi>of</hi> cico. <hi>The firſt Syllable</hi> doubled <hi>in d<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ter is ſhort.</hi>
+               </p>
+               <p>
+                  <hi>The</hi> C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aracteriſtical <hi>Letters,</hi> a, e, i <hi>of the</hi> firſt, ſe<g ref="char:EOLhyphen"/>cond <hi>and</hi> fourth Conjugations <hi>are long, except in</hi> do, <hi>and its Compounds,</hi> e <hi>of the</hi> third <hi>is ſhort.</hi>
+               </p>
+               <p>
+                  <hi>By</hi> Analogy <hi>of</hi> Conjugation <hi>or</hi> Declenſion <hi>the Quantity is thus known. The Vowel before</hi> bam, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, vi, ſi, runt vel re, <hi>is long:</hi> e <hi>before</hi> ram, rim, ro, <hi>is ſhort;</hi> a, o, e, <hi>before</hi> rum <hi>in the Genitive Plural, and</hi> bus <hi>in the Dative and Ablative are long;</hi> i <hi>and</hi> ai <hi>before</hi> bus <hi>are ſhort.</hi>
+               </p>
+               <p>Rimus, ritis, <hi>in the Praet. Subjunct. have</hi> ri <hi>ſhort in the Future long.</hi>
+               </p>
+               <p>
+                  <g ref="char:V">Ʋ</g> 
+                  <hi>in Deſideratives in</hi> urio <hi>is long, except</hi> partu<g ref="char:EOLhyphen"/>rio, usŭ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io.</p>
+               <p>
+                  <hi>Diminutives in</hi> olus, ulus; <hi>Verbals in</hi> ilis, <hi>Ad verbs in</hi> itus, <hi>have the</hi> Penultima <hi>ſhort.</hi>
+               </p>
+               <p>
+                  <hi>Adjectives in</hi> anus, inus, arus, orus, oſus, <hi>Adverbs in</hi> atim, itim, <hi>have the</hi> Penultima <hi>long, except</hi> Ad verbials <hi>and</hi> materials <hi>in</hi> mus, <hi>and</hi> aſſatim, prafëum, ſatim.</p>
+               <p>
+                  <hi>Moſt Words in</hi> do, go, li, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <hi>(except Verbals)</hi> nus, na, rus, ani<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, atus, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, etus, eta, etum, itis, utu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> udus unis, <hi>have the</hi> Penultima <hi>long. Adjectives in</hi> accus <hi>have the</hi> Ant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>penultima <hi>long.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="67" facs="tcp:95085:39"/>
+               <head>Rules for laſt Syllables.</head>
+               <p n="1">1. <hi>A, i, u, as, es, os, c, n,</hi> in the end are com<g ref="char:EOLhyphen"/>monly long; Except theſe, <hi>Puta, ita, quia, eja,</hi> and Nom. Acc. Voc. Caſes in <hi>a</hi> are ſhort, but Greek Maſculines in <hi>as</hi> have Voc <hi>a</hi> long. Numerals in <hi>ginta</hi> have <hi>a</hi> ſometimes ſhort.</p>
+               <p>
+                  <hi>Niſi, quaſi, ſicubi,</hi> and Greek Datives which have Gen. in <hi>os</hi> ſhort, have <hi>i</hi> ſhort. <hi>Mihi, tibi, ſibi, ubi, ibi,</hi> have <hi>i</hi> Common.</p>
+               <p>
+                  <hi>Nec</hi> and <hi>donec</hi> have <hi>c</hi> ſhort. <hi>Hic</hi> the Pronoun and <hi>hoc</hi> if no Abl. have <hi>c</hi> Common.</p>
+               <p>
+                  <hi>In, an, forſan, forſitan, tamen, attamen, n'</hi> apoco<g ref="char:EOLhyphen"/>pated, <hi>on</hi> of the <hi>ſecond</hi> Decl. <hi>en, ĭnis</hi> of the <hi>third</hi> and Greek Accuſ. in <hi>in, yn,</hi> have <hi>n</hi> ſhort.</p>
+               <p>Greek Nominatives in <hi>as</hi> making Gen. <hi>ados,</hi> and Greek Accuſatives of the <hi>third</hi> Decl. and <hi>anas, ana<g ref="char:EOLhyphen"/>tis</hi> have <hi>as</hi> ſhort.</p>
+               <p>The Prepoſtion <hi>penes,</hi> the Verb <hi>eo</hi> with its Com<g ref="char:EOLhyphen"/>pounds, Greek Neuters Sing. in <hi>es,</hi> and Greek No<g ref="char:EOLhyphen"/>minatives Plural in <hi>es,</hi> and Latin Nouns of the <hi>third</hi> Declenſion increaſing ſhort in the Genitive have <hi>es</hi> ſhort.</p>
+               <p>
+                  <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mpos, impos, os, oſſis,</hi> and Greek Words in <hi>os</hi> with ſhort <hi>o,</hi> have <hi>os</hi> ſhort.</p>
+               <p n="2">2. <hi>E, y, b, d, t, l, r, is, us</hi> and <hi>ys</hi> in the end are commonly ſhort; Except the Ablative <hi>fame,</hi> and Ablatives of the <hi>fifth</hi> Declenſion, and Adverbs made of the ſame, <hi>quare,</hi> Imperatives Sing. of the <hi>ſecond</hi> Conjugation, and Greek Words in <hi>c</hi> long, <hi>valde, ferme, fere,</hi> Adverbs made of Adjectives of the <hi>ſe<g ref="char:EOLhyphen"/>cond</hi> Declenſion; Except <hi>benĕ, malĕ magĕ,</hi> and Mo<g ref="char:EOLhyphen"/>noſyllables,
+<pb n="68" facs="tcp:95085:40"/> except the Encliticks <hi>que, ne, ve,</hi> and <hi>ce, te, pte,</hi> have <hi>e</hi> long.</p>
+               <p>
+                  <hi>Sal, ſol,</hi> and Hebrew Names, have <hi>l</hi> long.</p>
+               <p>Monoſyllables in <hi>r,</hi> the Compounds of <hi>par,</hi> and Greek Words in <hi>er</hi> with <hi>e</hi> long (except <hi>patĕr, matĕr</hi>) have <hi>r</hi> long.</p>
+               <p>Monoſyllables in <hi>is</hi> (except <hi>is, quis, bis</hi>) Da<g ref="char:EOLhyphen"/>tives and Ablatives Plural; the ſecond Perſon Singular of the Indic. Praeſ. in the fourth Conjuga<g ref="char:EOLhyphen"/>tion, <hi>vis</hi> the Verb, and <hi>ſis, poſſis, volis, nolis, malis,</hi> the Adverbs <hi>foris, gratis,</hi> Nouns of the third Declen<g ref="char:EOLhyphen"/>ſion increaſing long in the Genitive, Greek Words in <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is,</hi> have <hi>is</hi> long.</p>
+               <p>Monoſyllables in <hi>us,</hi> Caſes in <hi>us</hi> except <hi>Nom.</hi> and <hi>Voc.</hi> Sing. of the fourth Declenſion, Nouns of the the third Declenſion increaſing with <hi>u</hi> long in the Genitive, and Nouns made of Greeks in <hi>ous,</hi> have <hi>us</hi> long.</p>
+               <p>
+                  <hi>O</hi> in the end is common. But Datives and Abla<g ref="char:EOLhyphen"/>tives, and Adverbs of Adjectives, <hi>ergô</hi> for <hi>causâ,</hi> and Greek Words in <hi>o</hi> long, are long. <hi>Sedulò, mutuò, erebrò,</hi> have <hi>o</hi> common. <hi>Citò, cedò, modò,</hi> have <hi>o</hi> ſhort. <hi>Serò, ambo, duo, ego, homo, ſcio, neſcio, imo, illico,</hi> are uſually ſhort. <hi>Eo, ideo, adeo,</hi> uſually long. Mono<g ref="char:EOLhyphen"/>ſyllables are long.</p>
+               <p>The laſt Syllable in a Verſe is Common.</p>
+            </div>
+            <div type="part">
+               <head>The more uſual <hi>Feet</hi> in Verſes.</head>
+               <p n="1">1. Spondaeus, <hi>aüdāx.</hi> 2. <hi>Iambus, amāns.</hi> 3. Tro<g ref="char:EOLhyphen"/>chaeus, <hi>omnĭs.</hi> 4. Dactylus, <hi>mīttĕrĕ.</hi> 5. Anapaeſtus, <hi>pĭĕtas</hi> 6. Tribrachus, <hi>dŏmĭnüs.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="69" facs="tcp:95085:40"/>
+               <head>The more uſual ſorts of <hi>Verſes.</hi>
+               </head>
+               <p n="1">1. <hi>Hexameter</hi> or <hi>Heroicus:</hi> of ſix Feet, the four firſt <hi>Dactyls</hi> or <hi>Spondees,</hi> the fifth a <hi>Dactyl,</hi> the ſixth a <hi>Spondee;</hi> as</p>
+               <l>
+                  <hi>In nŏvă-fērt ănĭ-mūs mū-tātās-dicĕrĕ-fôrmās.</hi>
+               </l>
+               <p n="2">2. <hi>Pentameter</hi> or <hi>Elegiacus,</hi> of two <hi>Penthemimers,</hi> the former of two Feet either <hi>Dactyl</hi> or <hi>Spondee,</hi> and a long Syllable ending a Word, the later of two <hi>Dactyls</hi> and a long Syllable; as</p>
+               <l>
+                  <hi>Rēs ēst-ſolĭcĭtī-plēnă tĭ-mōrĭs ămōr.</hi>
+               </l>
+               <p n="3">3. <hi>Adonius,</hi> of two Feet, a <hi>Dactyl</hi> and <hi>Spondee;</hi> as</p>
+               <l>
+                  <hi>Gaūdĭă-pēllē.</hi>
+               </l>
+               <p n="4">4. <hi>Archilochius,</hi> of two <hi>Dactyls</hi> and a <hi>Syllable;</hi> as</p>
+               <l>
+                  <hi>Dūlcĭbŭs-āllŏqŭi-īs.</hi>
+               </l>
+               <p n="5">5. <hi>Aſclepiadaeus</hi> of a <hi>Spondee,</hi> a <hi>Dactyl,</hi> a long Syllable, and two <hi>Dactyls;</hi> as</p>
+               <l>
+                  <hi>Maecē-nās ătă-vīs-ēdĭtĕ-rēgĭbŭs.</hi>
+               </l>
+               <p n="6">6. <hi>Phalaecius,</hi> of a <hi>Spondee,</hi> a <hi>Dactyl,</hi> and three <hi>Trochees;</hi> as</p>
+               <l>
+                  <hi>
+                     <pb n="70" facs="tcp:95085:41"/>Vītām-quae, făcĭ ūnt bĕ-ātĭ ōrĕm.</hi>
+               </l>
+               <p n="7">7. <hi>Sapphicus,</hi> of a <hi>Trochee,</hi> a <hi>Spondee,</hi> a <hi>Dactyl,</hi> and two <hi>Trochees;</hi> as</p>
+               <l>
+                  <hi>Intĕ╌gēr vī tae ſcĕlĕ-rīſquĕ pūrŭs.</hi>
+               </l>
+               <p>At the end of three <hi>Sapphicks</hi> is commonly added an <hi>Adonick.</hi>
+               </p>
+               <p n="8">8. <hi>Iambicus.</hi> Either pure of all <hi>Iambi;</hi> as</p>
+               <l>
+                  <hi>Sŭīs-ĕt īp-ſâ Römă vī-rĭbūs-rŭīt.</hi>
+               </l>
+               <p>Or it may be <hi>mixt,</hi> with a <hi>Spondee</hi> in the <hi>firſt, third</hi> or <hi>fifth</hi> Places.</p>
+            </div>
+            <div type="part">
+               <head>Figures belonging to Verſes.</head>
+               <p n="1">1. <hi>Synalapha,</hi> whereby the Vowel in the end is cut off becauſe of a Vowel beginning the next Word; as</p>
+               <l>
+                  <hi>Sera nimis vit' to eſt craſtina, viv' hodie.</hi>
+               </l>
+               <p>
+                  <hi>Heu, O, ah, hei, io, cui,</hi> admit not this Figure.</p>
+               <p n="2">2. <hi>Eclipſis,</hi> whereby <hi>m</hi> with its Vowel in the end is cut off becauſe or a Vowel following; as</p>
+               <l>
+                  <hi>Monſtr' horrend' inform' ingens cui lumem ademptum.</hi>
+               </l>
+               <p>A Verſe runs beſt, when the Feet are made of ſe<g ref="char:EOLhyphen"/>veral Words; as</p>
+               <l>
+                  <hi>
+                     <pb n="71" facs="tcp:95085:41"/>Sȳlvē-ſtrēm tĕnŭ-ī mū-ſām mĕdĭ-tārĭs ă-vēnā.</hi>
+               </l>
+               <p>An <hi>Hexameter</hi> begins well with a <hi>Penthemimer,</hi> and cloſeth beſt with a <hi>Diſſyllable</hi> or <hi>Triſſyllable.</hi>
+               </p>
+               <p>A <hi>Pentameter</hi> ſhould cloſe with a <hi>Diſſyllable,</hi> or two <hi>Monoſyllables.</hi>
+               </p>
+               <p>Avoid many <hi>Monoſyllables,</hi> and uſe <hi>Synalaepha</hi> and <hi>Eclipſis</hi> as little as may be.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
